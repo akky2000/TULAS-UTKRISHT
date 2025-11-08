@@ -446,6 +446,55 @@ const EventDetail = () => {
   ],
 },
 
+"poster-presentation": {
+  title: "Poster Presentation",
+  category: "GENERAL / MULTIDISCIPLINARY",
+  date: "November 14, 2025",
+  time: "10:00 AM – 1:00 PM",
+  venue: "In front of Library, Tula's Institute",
+  participants: "Individual / Team of up to 3 members",
+  prize: "Certificates & Recognition for Best Posters",
+  description:
+    "Poster Presentation is an intellectually stimulating event of Utkrisht that offers students a platform to showcase their innovative ideas, research insights, and creativity through visually engaging posters. Participants will present their work on themes related to science, technology, innovation, environment, and society — highlighting analytical thinking, creativity, and communication skills.",
+  rules: [
+    "Participants can participate individually or in teams of up to 3 members.",
+    "Posters must be original and relevant to chosen themes.",
+    "All presentations must be completed within the given time slot.",
+    "Judges’ decisions will be final and binding.",
+    "Participants must maintain discipline and professional behavior."
+  ],
+  contact: [
+    "Dr. Rachna Sharma - +91 9465777388",
+    "Dr. Amisha Khati - +91 8958418844"
+  ],
+},
+
+
+"war-of-words": {
+  title: "War of Words",
+  category: "GENERAL / MULTIDISCIPLINARY",
+  date: "November 13, 2025",
+  time: "11:00 AM – 2:00 PM",
+  venue: "Seminar Hall (Block C), Tula's Institute",
+  participants: "Team of 3 Students",
+  prize: "Certificates & Recognition for Best Speakers",
+  description:
+    "War of Words is an engaging inter-departmental Extempore competition that tests participants’ ability to think on their feet and express their thoughts clearly on the spot. The event promotes confidence, communication skills, and critical thinking by encouraging students to speak spontaneously on diverse topics, fostering clarity, creativity, and poise in public speaking.",
+  rules: [
+    "Participants must form teams of 3 students from any department.",
+    "Each participant will receive a random topic and must begin speaking within 1 minute of preparation.",
+    "Speaking time per participant will be 2–3 minutes.",
+    "Judges’ decisions will be final and binding.",
+    "Participants must maintain discipline and professionalism during the event."
+  ],
+  contact: [
+    "Ms. Shalini Binjola - +91 9759067727",
+    "Ms. Riya Dariyal - +91 8279964438"
+  ],
+},
+
+
+
 
 
   };

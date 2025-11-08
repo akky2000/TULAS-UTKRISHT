@@ -16,12 +16,14 @@ import debugWarsPoster from "@/assets/events/debug-wars.jpg";
 import robowarPoster from "@/assets/events/R-w.jpeg"
 import icPoster from "@/assets/events/ic.jpg"
 import docterPoster from "@/assets/events/doctor.jpg"
+import posterPresentationPoster from "@/assets/events/poster.jpg"
+import warOfWordsPoster from "@/assets/events/war.jpg"
 
 
 const Events = () => {
   const [selectedCategory, setSelectedCategory] = useState("All");
 
-  const categories = ["All", "CIVIL", "ECE", "CENTERSTAGE", "AGRI","MECHANICAL"];
+  const categories = ["All","CENTERSTAGE","ASH", "CIVIL", "ECE", "AGRI","MECHANICAL"];
 
   const events = [
     {
@@ -209,6 +211,33 @@ const Events = () => {
   poster: docterPoster
 },
 
+
+
+{
+  id: "poster-presentation",
+  title: "Poster Presentation",
+  category: "ASH",
+  date: "November 14, 2025",
+  time: "10:00 AM – 1:00 PM",
+  participants: "Individual / Team of up to 3 members",
+  prize: "Certificates & Recognition for Best Posters",
+  description:
+    "Showcase your innovative ideas and research insights through visually engaging posters! Present your creativity on themes like science, technology, innovation, and environment while demonstrating analytical thinking and clear communication skills.",
+  poster: posterPresentationPoster,
+},
+
+{
+  id: "war-of-words",
+  title: "War of Words",
+  category: "ASH",
+  date: "November 13, 2025",
+  time: "11:00 AM – 2:00 PM",
+  participants: "Team of 3 Students (Open for all departments)",
+  prize: "Certificates",
+  description:
+    "War of Words is an engaging inter-departmental Extempore competition designed to enhance communication, critical thinking, and analytical abilities of students. Participants will speak spontaneously on a given topic, showcasing their ability to think quickly, organize ideas effectively, and express viewpoints confidently. This event encourages clarity of thought, stage presence, and fluency — fostering leadership and intellectual confidence.",
+  poster: warOfWordsPoster
+}
 
 
   ];
