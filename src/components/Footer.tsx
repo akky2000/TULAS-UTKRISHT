@@ -54,7 +54,7 @@ const Footer = () => {
             <ul className="space-y-4 text-sm text-muted-foreground">
               <li className="flex items-start gap-3 group">
                 <MapPin size={18} className="mt-0.5 text-primary group-hover:text-secondary transition-colors flex-shrink-0" />
-                <span className="font-light">Tula's Institute, Dhoolkot, Post Office: Selaqui, Chakrata Road, Dehradun- 248011 Uttarakh</span>
+                <span className="font-light">Tula's Institute, Dhoolkot, Post Office: Selaqui, Chakrata Road, Dehradun- 248011 Uttarakhand</span>
               </li>
               <li className="flex items-center gap-3 group">
                 <Phone size={18} className="text-primary group-hover:text-secondary transition-colors flex-shrink-0" />

@@ -7,18 +7,15 @@ const Gallery = () => {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   const galleryImages = [
-    { url: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop", caption: "Inaugural Ceremony 2024" },
-    { url: "https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=800&h=600&fit=crop", caption: "Hackathon in Action" },
-    { url: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=600&fit=crop", caption: "Workshop Sessions" },
-    { url: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=600&fit=crop", caption: "Robotics Competition" },
-    { url: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800&h=600&fit=crop", caption: "Team Collaboration" },
-    { url: "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&h=600&fit=crop", caption: "Keynote Presentation" },
-    { url: "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&h=600&fit=crop", caption: "Coding Challenge" },
-    { url: "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800&h=600&fit=crop", caption: "Networking Session" },
-    { url: "https://images.unsplash.com/photo-1528901166007-3784c7dd3653?w=800&h=600&fit=crop", caption: "Prize Distribution" },
-    { url: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800&h=600&fit=crop", caption: "Cultural Night" },
-    { url: "https://images.unsplash.com/photo-1496065187959-7f07b8353c55?w=800&h=600&fit=crop", caption: "Tech Exhibition" },
-    { url: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=600&fit=crop", caption: "Team Winners" }
+    { url: "/images/image1.jpeg"},
+    { url: "/images/image2.jpeg"},
+    { url: "/images/image3.jpeg"},
+    { url: "/images/image4.jpeg"},
+    { url: "/images/image5.jpeg"},
+    { url: "/images/image6.jpeg"},
+    { url: "/images/image7.JPG"},
+    { url: "/images/image8.jpeg"},
+    { url: "/images/image9.jpeg", caption: "" }
   ];
 
   return (
