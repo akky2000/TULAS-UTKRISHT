@@ -543,7 +543,84 @@ const EventDetail = () => {
     "Ms. Kanishka - BBA 1st Year",
     "Mr. Saurabh - MBA 1st Year"
   ]
-}
+},
+
+"finance-tambola": {
+  "title": "Finance Tambola – Play. Learn. Invest.",
+  "category": "BUSINESS & FINANCE",
+  "date": "November 13, 2025",
+  "time": "11:00 AM – 1:00 PM",
+  "venue": "F-402, Tula’s Institute",
+  "participants": "Individual Participation (Open to all GSB Students)",
+  "prize": "Attractive Prizes & Certificates for Winners and Active Participants",
+  "description":
+    "Finance Tambola – Play. Learn. Invest. is an engaging and interactive financial literacy event designed to promote financial awareness among students through a fun, pictorial learning experience. It combines entertainment and education, helping participants understand key financial concepts like investment, savings, taxation, and budgeting in an enjoyable and memorable way.",
+  "rules": [
+    "Event will be conducted offline at Tula’s Institute (F-402).",
+    "Individual participation only; open to all GSB students.",
+    "The event will have 2 rounds lasting a total of 2 hours.",
+    "Tambola grids will include finance-related visuals and concepts.",
+    "Evaluation will be based on accuracy of answers, active participation, and timely completion.",
+    "Participants must maintain discipline and sportsman spirit throughout the event.",
+    "Organizers’ and judges’ decisions will be final."
+  ],
+  "contact": [
+     "Faculty Coordinators: Mr. Ayush Nautiyal, Ms. Monalsha Chand",
+    "Student Coordinators: Ms. Neha Bhagat, Ms. Kanupriya"
+  ]
+},
+
+"brand-in-a-blink": {
+  "title": "Brand in a Blink",
+  "category": "MARKETING & BRANDING",
+  "date": "November 14, 2025",
+  "time": "11:00 AM – 1:00 PM",
+  "venue": "Room No. F-404, Tula’s Institute",
+  "participants": "Team Participation (4 members per team, Open to all GSB Students)",
+  "prize": "Prizes and Certificates for Winners and Participants",
+  "description": "Brand in a Blink is an interactive branding and marketing event organized under UTKRISHT – ‘The Creative Edge’ by the Marketing Club, Graduate School of Business. It challenges participants to identify popular brands through logos, taglines, and visuals shown briefly on screen, promoting quick thinking and brand awareness in an exciting way.",
+  "rules": [
+    "Teams of 4 members will participate.",
+    "Each team will watch a 60-second video containing brand visuals or logos.",
+    "Teams must identify the correct brand, company, or product within the time limit.",
+    "Points will be awarded based on accuracy and response speed.",
+    "Judges’ decisions will be final and binding."
+  ],
+  "contact": [
+    "Ms. Garima Sharma - Faculty Coordinator",
+    "Ms. Sarah Parveen - Faculty Coordinator",
+    "Surabhi - BBA 2nd Year, Sec-C",
+    "Mazhar Imam - BBA 3rd Year",
+    "Anchal Negi - BBA 1st Year"
+  ]
+},
+
+"peoples-pulse": {
+  "title": "People’s Pulse – A Signature HR Learning Extravaganza",
+  "category": "HUMAN RESOURCE MANAGEMENT",
+  "date": "November 14, 2025",
+  "time": "Half-Day Event (Approx. 4–5 Hours)",
+  "venue": "Tula’s Institute (On-Campus)",
+  "participants": "Open to MBA/BBA Students (Teams of 2–3)",
+  "prize": "Certificates & Prizes for Winners and Finalists",
+  "description": "People’s Pulse is a flagship HR learning event designed to engage participants in real-world human resource management challenges. Through interactive rounds like HR Quiz War, Case Crackers, and Ad Design Showdown, students experience the strategic importance of HR while applying creativity, ethics, and analytical thinking to solve dynamic business challenges.",
+  "rules": [
+    "Event will be conducted offline on-campus.",
+    "Participants can register in teams (2–3 members).",
+    "Round 1: HR Quiz War – Pen-paper + buzzer round on HR laws, analytics, and ethics.",
+    "Round 2: Case Crackers – On-the-spot HR case with limited preparation and presentation time.",
+    "Round 3: Ad Design Showdown – Create a recruitment campaign using given materials only.",
+    "No electronic devices allowed after case reveal.",
+    "Solutions must align with HR ethics and feasibility.",
+    "Jury’s decision will be final and binding."
+  ],
+  "contact": [
+    "Ms. Manya Chugh Sharma - Faculty Coordinator",
+    "Ms. Akansha Gautam - Faculty Coordinator",
+    "Ms. Afsha Naaz - MBA 1st Year",
+    "Ms. Sidhhim Paliwal - MBA 1st Year"
+  ]
+},
 
 
 

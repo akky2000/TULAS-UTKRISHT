@@ -25,13 +25,14 @@ import quizPoster from "@/assets/events/agriquiz.jpg";
 import mPoster from "@/assets/events/mushroom.jpg";
 import plantPoster from "@/assets/events/plant.jpg";
 import investPoster from "@/assets/events/invest.jpg";
+import utkrishtPoster from "@/assets/events/temp.jpg";
 
 
 
 const Events = () => {
   const [selectedCategory, setSelectedCategory] = useState("All");
 
-  const categories = ["All","CENTERSTAGE","ASH", "CIVIL", "ECE", "AGRI","MECHANICAL"];
+  const categories = ["All","CENTERSTAGE","ASH", "CIVIL", "ECE", "AGRI","MECHANICAL","GSB", "CSE","PHARMACY"];
 
   const events = [
     {
@@ -44,6 +45,38 @@ const Events = () => {
       description: " Showcase your AutoCAD skills by designing innovative structures and models.",
       poster: hackathonPoster
     },
+    {
+  "id": "finance-tambola",
+  "title": "Finance Tambola – Play. Learn. Invest.",
+  "category": "GSB",
+  "date": "November 13, 2025",
+  "participants": "Individual Participation (Open to all GSB Students)",
+  "prize": "Attractive Prizes & Certificates for Winners and Active Participants",
+  "description": "An interactive financial literacy event that blends learning and fun through a pictorial Tambola game, helping students understand key concepts like savings, investment, taxation, and budgeting.",
+  poster: utkrishtPoster
+},
+
+{
+  "id": "brand-in-a-blink",
+  "title": "Brand in a Blink",
+  "category": "GSB",
+  "date": "November 14, 2025",
+  "participants": "Team Participation (4 members per team, Open to all GSB Students)",
+  "prize": "Prizes and Certificates for Winners and Participants",
+  "description": "A fun and fast-paced branding challenge where teams identify brands, logos, and taglines flashed briefly on screen to test their marketing knowledge and brand recall.",
+  poster: utkrishtPoster
+},
+{
+  "id": "peoples-pulse",
+  "title": "People’s Pulse – A Signature HR Learning Extravaganza",
+  "category": "GSB",
+  "date": "November 14, 2025",
+  "participants": "Open to MBA/BBA Students (Teams of 2–3)",
+  "prize": "Certificates & Prizes for Winners and Finalists",
+  "description": "An HR-based interactive event with rounds like HR Quiz War, Case Crackers, and Ad Design Showdown — promoting strategic HR thinking, ethics, and creativity under the theme 'People at the Heart of Strategy'.",
+  poster: utkrishtPoster
+},
+
     {
       id: "robo-soccer",
       title: "Super Strikers - Robo Soccer ",
