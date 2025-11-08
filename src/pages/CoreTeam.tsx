@@ -8,33 +8,33 @@ import { Link } from "react-router-dom";
 const CoreTeam = () => {
   const facultyTeam = [
     {
-      name: "Dr. Rajesh Kumar",
-      designation: "Fest Coordinator",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
+      name: "Prof. (Dr.) Shailendra Kumar Tiwary",
+      designation: "Director",
+      image: "https://tulas.edu.in/_next/static/media/shailendra.d5366e63.png",
       social: { linkedin: "#", email: "rajesh@example.com" }
     },
     {
-      name: "Prof. Anjali Mehta",
-      designation: "Head of Department",
-      image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=400&fit=crop",
+      name: "Dr. Deepak Nanda",
+      designation: "Director of Pharmacy",
+      image: "https://tulas.edu.in/_next/static/media/deepak.15eec6d4.png",
       social: { linkedin: "#", email: "anjali@example.com" }
     },
     {
-      name: "Dr. Vikram Singh",
-      designation: "Technical Advisor",
-      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+      name: "Prof. Nishant Saxena",
+      designation: "Add. Director",
+      image: "https://tulas.edu.in/_next/static/media/nishant.215a395a.png",
       social: { linkedin: "#", email: "vikram@example.com" }
     },
     {
-      name: "Prof. Priya Sharma",
-      designation: "Event Coordinator",
-      image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop",
+      name: "Dr. Vijay Kumar Upadhyay",
+      designation: "Registrar",
+      image: "https://tulas.edu.in/_next/static/media/vijay.8c670b0f.png",
       social: { linkedin: "#", email: "priya@example.com" }
     },
     {
-      name: "Dr. Arun Patel",
-      designation: "Faculty Advisor",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      name: "Dr. Sunil Semwal",
+      designation: "Dean R&D",
+      image: "https://tulas.edu.in/_next/static/media/sunilSemwal.b84902f9.png",
       social: { linkedin: "#", email: "arun@example.com" }
     },
     {
@@ -55,6 +55,7 @@ const CoreTeam = () => {
       image: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=400&fit=crop",
       social: { linkedin: "#", email: "kavita@example.com" }
     }
+    
   ];
 
   const studentTeam = [
@@ -208,20 +209,20 @@ const CoreTeam = () => {
                     <p className="text-primary text-sm font-semibold mb-4">{member.designation}</p>
                     
                     <div className="flex gap-2 justify-center">
-                      <a
+                      {/* <a
                         href={member.social.linkedin}
                         className="p-2 bg-muted hover:bg-primary hover:text-primary-foreground rounded-lg transition-colors"
                         aria-label="LinkedIn"
                       >
                         <Linkedin size={18} />
-                      </a>
-                      <a
+                      </a> */}
+                      {/* <a
                         href={`mailto:${member.social.email}`}
                         className="p-2 bg-muted hover:bg-secondary hover:text-secondary-foreground rounded-lg transition-colors"
                         aria-label="Email"
                       >
                         <Mail size={18} />
-                      </a>
+                      </a> */}
                     </div>
                   </div>
                 ))}
