@@ -520,7 +520,7 @@ const EventDetail = () => {
 },
 "investors-den": {
   "title": "Investors Den",
-  "category": "ENTREPRENEURSHIP / BUSINESS INNOVATION",
+  "category": "GSB",
   "date": "November 13, 2025",
   "time": "4 Hours (Starting 11:00 AM)",
   "venue": "F-404 Smart Class, Tula's Institute",
@@ -547,7 +547,7 @@ const EventDetail = () => {
 
 "finance-tambola": {
   "title": "Finance Tambola – Play. Learn. Invest.",
-  "category": "BUSINESS & FINANCE",
+  "category": "GSB",
   "date": "November 13, 2025",
   "time": "11:00 AM – 1:00 PM",
   "venue": "F-402, Tula’s Institute",
@@ -572,7 +572,7 @@ const EventDetail = () => {
 
 "brand-in-a-blink": {
   "title": "Brand in a Blink",
-  "category": "MARKETING & BRANDING",
+  "category": "GSB",
   "date": "November 14, 2025",
   "time": "11:00 AM – 1:00 PM",
   "venue": "Room No. F-404, Tula’s Institute",
@@ -597,7 +597,7 @@ const EventDetail = () => {
 
 "peoples-pulse": {
   "title": "People’s Pulse – A Signature HR Learning Extravaganza",
-  "category": "HUMAN RESOURCE MANAGEMENT",
+  "category": "GSB",
   "date": "November 14, 2025",
   "time": "Half-Day Event (Approx. 4–5 Hours)",
   "venue": "Tula’s Institute (On-Campus)",
@@ -622,6 +622,167 @@ const EventDetail = () => {
   ]
 },
 
+"techmanthan": {
+  "title": "TechManthan – Ideas for Viksit Bharat",
+  "category": "CSE",
+  "date": "To Be Announced",
+  "time": "To Be Announced",
+  "venue": "To Be Announced",
+  "participants": "Individual or Team Participation",
+  "prize": "Certificates & Recognition for Best Ideas",
+  "description": "TechManthan – Ideas for Viksit Bharat is an engaging and intellectually stimulating event designed to empower young minds to think, speak, and innovate for the nation’s technological growth. The event provides a platform for students to act as youth representatives, presenting their ideas and solutions that can contribute to building a Viksit Bharat (Developed India). Each participant or team will deliver a 2-minute speech focusing on innovative uses of technology for social and economic development, identifying existing gaps in current technological adoption, and proposing actionable ideas or solutions for national progress.",
+  "rules": [
+    "Each participant or team will deliver a 2-minute speech.",
+    "Speech must focus on innovative technological ideas for national development.",
+    "Participants must present original ideas and avoid plagiarism.",
+    "Judges’ decision will be final and binding.",
+    "Participants should maintain decorum and professionalism."
+  ],
+  "contact": [
+    "Faculty Coordinators: To Be Announced",
+    "Student Coordinators: To Be Announced"
+  ]
+},
+
+"reel-o-tech": {
+  "title": "Reel-O-Tech",
+  "category": "CSE",
+  "date": "13 NOV",
+  "time": "12:00 AM onwards",
+  "venue": "To Be Announced",
+  "participants": "Individual or Team (up to 3 members)",
+  "prize": "Awards for Best Creative Reel, Most Relatable/Fun Reel & Best Editing/Technical Reel; e-Certificates for all participants",
+  "description": "Reel-O-Tech is a techno-creative event that encourages students to showcase their imagination, innovation, and storytelling skills through short reels (60–90 seconds). Participants will create engaging and original videos highlighting aspects of technology, innovation, or campus life. Shortlisted reels will be screened and judged on creativity, originality, and audience impact.",
+  "rules": [
+    "Participants can register individually or in teams of up to 3 members.",
+    "Each team must create one reel based on the revealed theme.",
+    "All team members must be enrolled students of the institution.",
+    "Cross-branch participation is allowed.",
+    "Each team must bring its own smartphone or recording device.",
+    "Creation Time: 1–2 hours (on the spot). Screening & results in 1 hour.",
+    "Reels must be 60–90 seconds long and submitted before the deadline.",
+    "Participants may use AI-based tools such as Pika Labs, Runway ML, Synthesia, Descript, CapCut, Veed.io, ElevenLabs, LALAL.AI, or InShot.",
+    "Editing, filters, captions, and background music are allowed.",
+    "Content must be original, appropriate, and non-offensive.",
+    "Plagiarized or inappropriate content will lead to disqualification.",
+    "Participants must adhere to the event schedule and conduct professionally.",
+    "The organizing committee’s decision will be final."
+  ],
+  "contact": [
+    "Faculty In-Charge: To Be Announced",
+    "Event Coordinators: To Be Announced",
+    "Student Volunteers: To Be Announced"
+  ]
+},
+
+"techfusion": {
+  "title": "TechFusion: Build, Predict & Secure",
+  "category": "CSE",
+  "date": "To Be Announced",
+  "time": "Full-Day Event (~6–8 Hours)",
+  "venue": "Tula’s Institute, Dehradun – CSE Department",
+  "participants": "Open to undergraduate and postgraduate students from Computer Science, IT, and allied disciplines (Team size: 1–4 members)",
+  "prize": "Overall Winner, Best Innovation Award, Best AI/ML Solution, and Best Cybersecurity Skill. Certificates for all participants.",
+  "description": "TechFusion: Build, Predict & Secure is a multidisciplinary technical competition that brings together the domains of software development, artificial intelligence, and cybersecurity. Participants engage in three dynamic challenges — Build (Prototype/App Development), Predict (AI/ML Model), and Secure (Cybersecurity Challenge) — to showcase innovation, analytical skills, and teamwork.",
+  "rules": [
+    "Teams can participate in one, two, or all three components — Build, Predict, and Secure.",
+    "Each component has separate evaluation criteria; the overall winner is based on cumulative scores.",
+    "Team size: 1–4 members (inter-department teams allowed).",
+    "All work must be original; plagiarism or copied solutions lead to disqualification.",
+    "Use of open-source tools and datasets is allowed with proper citation.",
+    "Participants must follow ethical hacking practices during the Secure challenge.",
+    "Teams must submit abstracts for Build and Predict components at registration.",
+    "Judges’ decisions will be final and binding.",
+    "Internet and power facilities will be provided; participants should bring their own laptops.",
+    "Any misconduct or unethical behavior may result in disqualification."
+  ],
+  "contact": [
+    "Mr. Mohit Saini - Faculty Coordinator (9759581657)",
+    "Mr. Sanjeev Gupta - Faculty Coordinator (9457467374)",
+    "Mr. Shivam Pandey - Faculty Coordinator (7017944688)"
+  ]
+},
+
+
+
+
+"coderush": {
+  "title": "CodeRush – Crack the Code. Beat the Clock.",
+  "category": "CSE",
+  "date": "Tuesday, 4th November 2025",
+  "time": "11:00 AM – 1:00 PM (2 Hours)",
+  "venue": "Online (GeeksforGeeks Platform)",
+  "participants": "Open to all undergraduate students (individual participation)",
+  "prize": "Trophies & Certificates for Top 3 Winners; Sponsored Goodies from GeeksforGeeks and ACM Student Chapter",
+  "description": "CodeRush is a premier inter-college coding contest that tests participants’ logical reasoning, problem-solving ability, and coding efficiency. Organized in collaboration with GeeksforGeeks and supported by ACM Student Chapter, the event aims to foster a competitive programming culture while recognizing top coding talent across campuses.",
+  "rules": [
+    "Total of 4 coding questions: 2 Easy, 1 Medium, and 1 Hard.",
+    "Contest duration is 2 hours.",
+    "Evaluation based on accuracy, efficiency, and total time taken.",
+    "Individual participation only.",
+    "Event will be conducted on GeeksforGeeks platform.",
+    "Judging Criteria:",
+    "• Code Correctness – 40%",
+    "• Time & Space Efficiency – 25%",
+    "• Problem Solving Approach – 20%",
+    "• Code Quality – 10%",
+    "• Speed of Submission – 5%",
+    "Top 3 performers will receive trophies and certificates.",
+    "All participants must adhere to fair coding practices.",
+    "Decisions made by the judging panel will be final and binding."
+  ],
+  "contact": [
+    "Faculty Coordinator: Dr. Ritu Pal",
+    "Student Coordinator: Abhishek Maurya",
+    "Student Coordinator: Devanshu Purohit",
+    "Student Coordinator: Abhinav Singhal"
+  ]
+},
+
+
+"soap-making-activity": {
+  "title": "Soap Making Activity",
+  "category": "PHARMACY",
+  "date": "N/A",
+  "time": "N/A",
+  "venue": "Pharmaceutics Laboratory, Tulas Institute of Pharmacy",
+  "participants": "Pharmacy students of Tulas Institute",
+  "prize": "N/A",
+  "description": "The Department of Pharmacy, Tulas Institute of Pharmacy, organized a Soap Making Activity as part of a practical learning and skill development initiative. The activity aimed to provide hands-on experience in soap formulation and preparation, focusing on the application of Pharmaceutical Chemistry and Pharmaceutics concepts. Students learned the saponification process, ingredient selection, quality control, and creativity in product design. Under faculty guidance, they prepared customized soaps using natural ingredients such as coconut oil, castor oil, aloe vera, and neem. The activity promoted innovation, teamwork, and awareness of eco-friendly formulations.",
+  "rules": [
+    "Understand and apply the process of saponification.",
+    "Use safe and approved ingredients for formulation.",
+    "Maintain cleanliness and safety during preparation.",
+    "Ensure creativity in design and fragrance selection."
+  ],
+  "contact": [
+    "Ms. Priyanka Gupta",
+    "Ms. Yati Gaur (Spokesperson)"
+  ]
+},
+
+
+"anatomical-3d-model-making": {
+  "title": "Anatomical 3D Model Making",
+  "category": "PHARMACY",
+  "date": "N/A",
+  "time": "N/A",
+  "venue": "Human Anatomy and Physiology Laboratory, Tula’s Institute of Pharmacy",
+  "participants": "Pharmacy students of Tula’s Institute",
+  "prize": "N/A",
+  "description": "The Department of Pharmacy, Tula’s Institute of Pharmacy, organized an Anatomical 3D Model Making Activity aimed at enhancing students’ understanding of human anatomy through hands-on experience. Participants created detailed three-dimensional models of anatomical structures to visualize and comprehend complex body systems. The activity encouraged teamwork, creativity, and innovation while improving spatial and visual learning skills.",
+  "rules": [
+    "Each participant or team must design and construct a 3D anatomical model.",
+    "Models should accurately represent human anatomical structures.",
+    "Participants may use both electrical and non-electrical tools.",
+    "Maintain safety and follow laboratory protocols during the activity.",
+    "Originality and clarity of structure presentation will be key evaluation factors."
+  ],
+  "contact": [
+    "Miss Neha Kumari (Activity Coordinator)",
+    "Miss Yati Gaur (Spokesperson)"
+  ]
+},
 
 
 

@@ -4,8 +4,8 @@ import Footer from "@/components/Footer";
 import EventCard from "@/components/EventCard";
 import { Button } from "@/components/ui/button";
 import { SEO } from "@/components/SEO";
-import hackathonPoster from "@/assets/events/hackathon.jpg";
-import roboWarsPoster from "@/assets/events/robo-wars.jpg";
+import hackathonPoster from "@/assets/events/temp.jpg";
+import roboWarsPoster from "@/assets/events/temp.jpg";
 import aiWorkshopPoster from "@/assets/events/ai-workshop.jpg";
 import webDevPoster from "@/assets/events/web-dev.jpg";
 import droneRacePoster from "@/assets/events/drone-race.jpg";
@@ -76,6 +76,77 @@ const Events = () => {
   "description": "An HR-based interactive event with rounds like HR Quiz War, Case Crackers, and Ad Design Showdown — promoting strategic HR thinking, ethics, and creativity under the theme 'People at the Heart of Strategy'.",
   poster: utkrishtPoster
 },
+
+
+{
+  "id": "techmanthan",
+  "title": "TechManthan – Ideas for Viksit Bharat",
+  "category": "CSE",
+  "date": "13 NOV",
+  "participants": "Individual or Team Participation",
+  "prize": "Certificates & Recognition for Best Ideas",
+  "description": "TechManthan – Ideas for Viksit Bharat empowers young minds to innovate for the nation’s technological growth. Participants act as youth representatives, presenting 2-minute speeches with ideas that can drive India’s transformation into a Viksit Bharat (Developed India). The event fosters leadership, innovation, and public speaking skills aligned with the Viksit Bharat@2047 vision.",
+  poster: utkrishtPoster
+},
+
+{
+  "id": "reel-o-tech",
+  "title": "Reel-O-Tech",
+  "category": "CSE",
+  "date": "13 NOV",
+  "participants": "Individual or Team (up to 3 members)",
+  "prize": "Awards for Best Creative Reel, Most Relatable/Fun Reel & Best Editing/Technical Reel; e-Certificates for all participants",
+  "description": "Reel-O-Tech blends technology and creativity, allowing participants to craft short 60–90 second reels around tech life, innovation, or campus experiences. The event promotes storytelling, editing skills, and originality using tools like CapCut, Runway ML, and Synthesia, celebrating the spirit of Utkrisht 2025.",
+  poster: utkrishtPoster
+},
+
+{
+  "id": "techfusion",
+  "title": "TechFusion: Build, Predict & Secure",
+  "category": "CSE",
+  "date": "13 NOV",
+  "participants": "Open to undergraduate and postgraduate students (Team size: 1–4 members)",
+  "prize": "Awards for Overall Winner, Best Innovation, Best AI/ML Solution, and Best Cybersecurity Skill. Certificates for all participants.",
+  "description": "A multidisciplinary competition that unites AI/ML, software development, and cybersecurity through three segments — Build, Predict, and Secure. Students innovate, analyze, and defend in real-world tech challenges designed to test creativity, technical acumen, and ethical problem-solving.",
+  poster: utkrishtPoster
+},
+
+
+{
+  "id": "anatomical-3d-model-making",
+  "title": "Anatomical 3D Model Making",
+  "category": "PHARMACY",
+  "date": "N/A",
+  "participants": "Pharmacy students of Tula’s Institute",
+  "prize": "N/A",
+  "description": "An engaging hands-on activity organized by the Department of Pharmacy, Tula’s Institute of Pharmacy, where students designed 3D models of human anatomical structures. The activity aimed to strengthen understanding of anatomy, spatial visualization, and teamwork through creative model construction using diverse materials and techniques.",
+  poster: utkrishtPoster
+},
+
+{
+  "id": "soap-making-activity",
+  "title": "Soap Making Activity",
+  "category": "PHARMACY",
+  "date": "N/A",
+  "participants": "Pharmacy students of Tulas Institute",
+  "prize": "N/A",
+  "description": "A hands-on workshop by the Department of Pharmacy, Tulas Institute, where students learned the process of saponification, formulation techniques, and cosmetic product preparation. Participants created customized soaps using natural oils and herbal additives, promoting creativity, eco-friendly innovation, and technical skills in cosmetic manufacturing.",
+  poster: utkrishtPoster
+},
+
+
+
+{
+  "id": "coderush",
+  "title": "CodeRush – Crack the Code. Beat the Clock.",
+  "category": "CSE",
+  "date": "Tuesday, 4th November 2025",
+  "participants": "Open to all undergraduate students (individual participation)",
+  "prize": "Trophies & Certificates for Top 3 Winners; Sponsored Goodies from GeeksforGeeks and ACM Student Chapter",
+  "description": "CodeRush is an inter-college coding contest powered by GeeksforGeeks and ACM Student Chapter, designed to test accuracy, efficiency, and problem-solving speed. With 4 challenges of increasing difficulty, participants compete for recognition as the top coders on campus.",
+  poster: utkrishtPoster
+},
+
 
     {
       id: "robo-soccer",
