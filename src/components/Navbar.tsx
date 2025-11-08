@@ -24,7 +24,6 @@ const Navbar = () => {
     { name: "Events", path: "/events" },
     { name: "Gallery", path: "/gallery" },
     { name: "Core Team", path: "/core-team" },
-    { name: "Contact", path: "/contact" },
   ];
 
   return (
@@ -71,7 +70,7 @@ const Navbar = () => {
                 }`} />
               </Link>
             ))}
-            <button
+            {/* <button
               onClick={toggleTheme}
               className="p-2 rounded-full hover:bg-primary/10 transition-colors duration-300 text-muted-foreground hover:text-foreground ml-2"
               aria-label="Toggle theme"
@@ -81,7 +80,7 @@ const Navbar = () => {
               ) : (
                 <Moon className="h-5 w-5" />
               )}
-            </button>
+            </button> */}
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9-4Zy_i23aE0xzXDcwuTKZ4aZ32vl0VwEOFi-NLazDhGMEQ/viewform">
               <Button variant="hero" className="ml-2 font-tech font-semibold tracking-wide shadow-[0_0_20px_rgba(234,179,8,0.4)] hover:shadow-[0_0_30px_rgba(234,179,8,0.7)] transition-all duration-300">
                 REGISTER NOW
