@@ -389,6 +389,65 @@ const EventDetail = () => {
 
 
 
+
+
+
+"unlocking-engine-secrets": {
+  title: "Unlocking Engine Secrets",
+  category: "MECHANICAL",
+  date: "November 13, 2025",
+  time: "11:00 AM onwards",
+  venue: "Mechanical Workshop, Tula's Institute",
+  participants: "Teams of 4–5 members",
+  prize: "Trophies & Certificates for Top 3 Winners",
+  description:
+    "Get ready to explore the core of mechanical engineering! The Assembly and Disassembly of IC Engine event offers a hands-on experience where participants will dismantle and reassemble an internal combustion engine, understanding each component’s function and mechanism. This workshop bridges theory with real-world mechanical practice.",
+  rules: [
+    "Teams must report 15 minutes before the scheduled start time.",
+    "All participants must wear safety gear (gloves, shoes, goggles).",
+    "Careful handling of tools and components is mandatory.",
+    "Latecomers or unsafe practices will lead to disqualification.",
+    "Judges' decisions are final and binding."
+  ],
+  contact: [
+    "Mr. Anurag Bahuguna - +91 8126028009",
+    "Mr. Manoj Singh - +91 8958562630",
+    "Mr. Shivam Raturi - +91 8126453950",
+    "Mr. Kushagra Sharma - +91 9045014351",
+    "Mr. Vivek Mishra - +91 7061926650",
+    "Mr. Deepanshu Raj - +91 7857872631"
+  ],
+},
+
+
+"doctor-driving": {
+  title: "Doctor Driving (Traffic Track & Symbol Scan)",
+  category: "GENERAL / MECHANICAL",
+  date: "November 13, 2025",
+  time: "11:00 AM – 2:00 PM",
+  venue: "Cricket Ground, Tula's Institute",
+  participants: "Open to all students (Individual participation)",
+  prize: "Trophies & Certificates for Top 3 Winners",
+  description:
+    "Doctor Driving is an exciting and educational event designed to test participants’ driving skills, awareness of traffic symbols, and knowledge of road safety rules — all in a fun and controlled environment. The event promotes safe driving habits through an engaging track-based challenge using bicycles.",
+  rules: [
+    "Participants must attend the briefing session before the event begins.",
+    "Ignoring signs or hitting track edges will lead to penalties.",
+    "All participants must maintain discipline throughout the event.",
+    "Judges' decisions will be final and binding."
+  ],
+  contact: [
+    "Mr. Satish Kumar - +91 7895351268",
+    "Mr. Amit Morya - +91 9997322591",
+    "Mr. Himanshu Kala - +91 9410969386",
+    "Mr. Devang Tomar - +91 9389840278",
+    "Mr. Arman Kumar - +91 9334545709",
+    "Mr. Nakib Raza - +91 8178972765"
+  ],
+},
+
+
+
   };
 
   // ✅ Safely fetch event data

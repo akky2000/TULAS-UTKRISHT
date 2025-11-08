@@ -14,11 +14,14 @@ import blockchainPoster from "@/assets/events/blockchain.jpg";
 import iotPoster from "@/assets/events/iot.jpg";
 import debugWarsPoster from "@/assets/events/debug-wars.jpg";
 import robowarPoster from "@/assets/events/R-w.jpeg"
+import icPoster from "@/assets/events/ic.jpg"
+import docterPoster from "@/assets/events/doctor.jpg"
+
 
 const Events = () => {
   const [selectedCategory, setSelectedCategory] = useState("All");
 
-  const categories = ["All", "CIVIL", "ECE", "CENTERSTAGE", "AGRI", "Hardware"];
+  const categories = ["All", "CIVIL", "ECE", "CENTERSTAGE", "AGRI","MECHANICAL"];
 
   const events = [
     {
@@ -174,7 +177,40 @@ const Events = () => {
       prize: "Exciting Rewards",
       description: "Navigate an electrifying maze using your knowledge of circuits and electronics.",
       poster: debugWarsPoster
-    }
+    },
+
+
+
+{
+
+    id: "unlocking-engine-secrets",
+  title: "Unlocking Engine Secrets",
+  category: "MECHANICAL",
+  date: "November 13, 2025",
+  time: "11:00 AM onwards",
+  participants: "Open to all undergraduate students",
+  prize: "Certificates",
+  description:
+    " Learn the art of cultivating a nutritious kitchen garden with hands-on experience in planting, nurturing, and harvesting a variety of vegetables and herbs. Discover sustainable gardening practices that promote health and wellness.",
+  poster: icPoster
+},
+
+{
+
+    id: "doctor-driving",
+  title: "Doctor Driving ",
+  category: "MECHANICAL",
+  date: "November 13, 2025",
+  time: "11:00 AM – 2:00 PM",
+  participants: "Open to all undergraduate students",
+  prize: "Certificates",
+  description:
+    " Learn the art of cultivating a nutritious kitchen garden with hands-on experience in planting, nurturing, and harvesting a variety of vegetables and herbs. Discover sustainable gardening practices that promote health and wellness.",
+  poster: docterPoster
+},
+
+
+
   ];
 
   const filteredEvents = selectedCategory === "All" 
