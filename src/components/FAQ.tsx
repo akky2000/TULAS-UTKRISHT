@@ -12,7 +12,7 @@ const FAQ = () => {
     },
     {
       question: 'What are the Dates and Timings of the event?',
-      answer: 'The event will start at 9 AM on 14th November and continue till 15th November, 5 PM.'
+      answer: 'The event will start at 9 AM on 13th November and continue till 14th November, 5 PM.'
     },
     {
       question: 'How can I participate in the event?',

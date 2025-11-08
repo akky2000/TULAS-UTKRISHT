@@ -110,7 +110,7 @@ const Index = () => {
           </h2>
           <Countdown targetDate={EVENT_DATE} />
           <p className="mt-6 text-xl text-muted-foreground">
-            November 14-15, 2025 | 9:00 AM Onwards
+            November 13-14, 2025 | 9:00 AM Onwards
           </p>
         </div>
       </section>
