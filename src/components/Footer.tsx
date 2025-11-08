@@ -36,13 +36,13 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link to="/speakers" className="hover:text-primary hover:translate-x-1 transition-all duration-300 inline-block font-light">
-                  → Speakers
+                <Link to="/gallery" className="hover:text-primary hover:translate-x-1 transition-all duration-300 inline-block font-light">
+                  → Gallery
                 </Link>
               </li>
               <li>
-                <Link to="/schedule" className="hover:text-primary hover:translate-x-1 transition-all duration-300 inline-block font-light">
-                  → Schedule
+                <Link to="/core-team" className="hover:text-primary hover:translate-x-1 transition-all duration-300 inline-block font-light">
+                  → Core Team
                 </Link>
               </li>
             </ul>
@@ -54,15 +54,15 @@ const Footer = () => {
             <ul className="space-y-4 text-sm text-muted-foreground">
               <li className="flex items-start gap-3 group">
                 <MapPin size={18} className="mt-0.5 text-primary group-hover:text-secondary transition-colors flex-shrink-0" />
-                <span className="font-light">Tech University Campus, Innovation Block</span>
+                <span className="font-light">Tula's Institute, Dhoolkot, Post Office: Selaqui, Chakrata Road, Dehradun- 248011 Uttarakh</span>
               </li>
               <li className="flex items-center gap-3 group">
                 <Phone size={18} className="text-primary group-hover:text-secondary transition-colors flex-shrink-0" />
-                <span className="font-light">+91 9876543210</span>
+                <span className="font-light">0135-2699300</span>
               </li>
               <li className="flex items-center gap-3 group">
                 <Mail size={18} className="text-primary group-hover:text-secondary transition-colors flex-shrink-0" />
-                <span className="font-light">info@utkrisht2025.com</span>
+                <span className="font-light">info@tulas.edu.in</span>
               </li>
             </ul>
           </div>
@@ -72,28 +72,28 @@ const Footer = () => {
             <h4 className="font-tech font-bold text-foreground mb-6 tracking-wide uppercase text-lg">Follow Us</h4>
             <div className="flex gap-4">
               <a
-                href="#"
+                href="https://www.facebook.com/tulasinstitutedehradun/"
                 className="w-12 h-12 rounded-lg bg-gradient-to-br from-primary/20 to-secondary/20 border-2 border-primary/30 hover:border-primary hover:scale-110 hover:shadow-[0_0_20px_rgba(234,179,8,0.6)] flex items-center justify-center transition-all duration-300 group"
                 aria-label="Facebook"
               >
                 <Facebook size={22} className="text-primary group-hover:text-secondary transition-colors" />
               </a>
               <a
-                href="#"
+                href="https://twitter.com/tulas_institute"
                 className="w-12 h-12 rounded-lg bg-gradient-to-br from-primary/20 to-secondary/20 border-2 border-primary/30 hover:border-secondary hover:scale-110 hover:shadow-[0_0_20px_rgba(6,182,212,0.6)] flex items-center justify-center transition-all duration-300 group"
                 aria-label="Twitter"
               >
                 <Twitter size={22} className="text-secondary group-hover:text-primary transition-colors" />
               </a>
               <a
-                href="#"
+                href="https://www.instagram.com/tulasinstitutedehradun/"
                 className="w-12 h-12 rounded-lg bg-gradient-to-br from-primary/20 to-secondary/20 border-2 border-primary/30 hover:border-primary hover:scale-110 hover:shadow-[0_0_20px_rgba(234,179,8,0.6)] flex items-center justify-center transition-all duration-300 group"
                 aria-label="Instagram"
               >
                 <Instagram size={22} className="text-primary group-hover:text-secondary transition-colors" />
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/school/tula's-institute/"
                 className="w-12 h-12 rounded-lg bg-gradient-to-br from-primary/20 to-secondary/20 border-2 border-primary/30 hover:border-secondary hover:scale-110 hover:shadow-[0_0_20px_rgba(6,182,212,0.6)] flex items-center justify-center transition-all duration-300 group"
                 aria-label="LinkedIn"
               >
