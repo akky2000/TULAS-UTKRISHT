@@ -9,7 +9,7 @@ import roboWarsPoster from "@/assets/events/robo-wars.jpg";
 import aiWorkshopPoster from "@/assets/events/ai-workshop.jpg";
 import webDevPoster from "@/assets/events/web-dev.jpg";
 import droneRacePoster from "@/assets/events/drone-race.jpg";
-import uiUxPoster from "@/assets/events/ui-ux.jpg";
+
 import blockchainPoster from "@/assets/events/blockchain.jpg";
 import iotPoster from "@/assets/events/iot.jpg";
 import debugWarsPoster from "@/assets/events/debug-wars.jpg";
@@ -18,6 +18,14 @@ import icPoster from "@/assets/events/ic.jpg"
 import docterPoster from "@/assets/events/doctor.jpg"
 import posterPresentationPoster from "@/assets/events/poster.jpg"
 import warOfWordsPoster from "@/assets/events/war.jpg"
+import potteryPoster from "@/assets/events/pottery.jpg"
+import nPoster from "@/assets/events/nutritive.jpg"
+import martPoster from "@/assets/events/agrimart.jpg";
+import quizPoster from "@/assets/events/agriquiz.jpg";
+import mPoster from "@/assets/events/mushroom.jpg";
+import plantPoster from "@/assets/events/plant.jpg";
+import investPoster from "@/assets/events/invest.jpg";
+
 
 
 const Events = () => {
@@ -56,7 +64,7 @@ const Events = () => {
   prize: "Certificates",
   description:
     " Learn the art of cultivating a nutritious kitchen garden with hands-on experience in planting, nurturing, and harvesting a variety of vegetables and herbs. Discover sustainable gardening practices that promote health and wellness.",
-  poster: iotPoster
+  poster: nPoster
 },
     {
       id: "robo-wars",
@@ -89,14 +97,14 @@ const Events = () => {
       poster: droneRacePoster
     },
      {
-    id: "trading",
+    id: "investors-den",
     title: "INVESTORS DEN",
     category: "CENTERSTAGE",
     date: "November 13, 2025",
     participants: "Teams of 4",
-    poster: roboWarsPoster,
+    poster: investPoster,
     prize: "TBA",
-    description: "Design and program autonomous robot to play soccer against competing teams."
+    description: "Investors Den is a Shark Tank-inspired entrepreneurship challenge."
   },
     {
       id: "agrimart",
@@ -106,7 +114,7 @@ const Events = () => {
       participants: "Individual",
       prize: "Exciting Rewards",
       description: "Showcase innovative agricultural products and solutions that can revolutionize farming practices.",
-      poster: uiUxPoster
+      poster: martPoster
     },
     {
       id: "agri-quest",
@@ -116,7 +124,7 @@ const Events = () => {
       participants: "Individual",
       prize: "Exciting Rewards",
       description: "Test your knowledge of modern agricultural tools, quality seeds and seedling management in this fun quiz competition.",
-      poster: blockchainPoster
+      poster: quizPoster
     },
     {
     id: "bgmi-tournament",
@@ -136,7 +144,7 @@ const Events = () => {
       participants: "Individual",
       prize: "Certificates",
       description: " ",
-      poster: iotPoster
+      poster: mPoster
     },
     {
       id: "load-limit",
@@ -167,7 +175,7 @@ const Events = () => {
       participants: "Team of 5",
       prize: "Certificates",
       description: " Engage in a hands-on planting competition to showcase your gardening skills and knowledge of plant care.",
-      poster: aiWorkshopPoster
+      poster: plantPoster
     },
 
     {
@@ -237,6 +245,19 @@ const Events = () => {
   description:
     "War of Words is an engaging inter-departmental Extempore competition designed to enhance communication, critical thinking, and analytical abilities of students. Participants will speak spontaneously on a given topic, showcasing their ability to think quickly, organize ideas effectively, and express viewpoints confidently. This event encourages clarity of thought, stage presence, and fluency — fostering leadership and intellectual confidence.",
   poster: warOfWordsPoster
+},
+
+{
+  id: "pottery-demonstration",
+  title: "Pottery Demonstration & Training",
+  category: "AGRI",
+  date: "November 13, 2025",
+  time: "2:00 PM – 5:00 PM",
+  participants: "Open for all students (Beginner to Advanced)",
+  prize: "Certificates for Participants",
+  description:
+    "A pottery demonstration showcasing the foundational techniques of creating a vessel on a potter's wheel. The session highlights the transformation of simple clay (earth and water) into a functional art piece through skill and heat (fire and air). This hands-on training offers an immersive experience for participants to learn forming processes and shaping techniques under expert guidance.",
+  poster: potteryPoster
 }
 
 

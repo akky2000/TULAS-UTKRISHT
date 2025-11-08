@@ -495,6 +495,59 @@ const EventDetail = () => {
 
 
 
+"pottery-demonstration": {
+  "title": "Pottery Demonstration & Training",
+  "category": "AGRI",
+  "date": "November 13 , 2025",
+  "time": "2:00 PM - 5:00 PM ",
+  "venue": "Agri Dept.",
+  "participants": "Open for all students (Beginner to Advanced)",
+  "prize": "Certificates for Participants",
+  "description":
+    "A pottery demonstration showcasing the foundational techniques of creating a vessel on a potter's wheel. The session highlights the transformation of simple clay (earth and water) into a functional art piece through skill and heat (fire and air). This hands-on training offers an immersive experience for participants to learn forming processes and shaping techniques under expert guidance.",
+  "rules": [
+    "Participants must register before the event date.",
+    "All materials required for pottery will be provided at the venue.",
+    "Participants should follow safety instructions during the demonstration.",
+    "Judges’ and instructors’ decisions will be final.",
+    "Participants are advised to wear comfortable clothing suitable for clay work."
+  ],
+  "contact": [
+    "Dr Sanjay Sharma (9411138838)",
+     "Mr Pankaj Negi ( 9760805826)"
+    
+  ]
+},
+"investors-den": {
+  "title": "Investors Den",
+  "category": "ENTREPRENEURSHIP / BUSINESS INNOVATION",
+  "date": "November 13, 2025",
+  "time": "4 Hours (Starting 11:00 AM)",
+  "venue": "F-404 Smart Class, Tula's Institute",
+  "participants": "Team of 3 Students (Open to all UG/PG)",
+  "prize": "Trophies & Certificates for Top Teams",
+  "description":
+    "Investors Den is a Shark Tank-inspired entrepreneurship challenge where teams pitch innovative startup ideas, build low-cost prototypes, and perform live brand campaigns before mock investors. The event develops creativity, business acumen, pitching confidence, and teamwork — empowering students to become future founders and innovators.",
+ 
+  "rules": [
+    "Teams of 3 students from UG/PG programs.",
+    "Pitch deck to be emailed in advance to varun@tulas.edu.in.",
+    "Top 10 teams qualify after Round 1; Top 5 reach the final.",
+    "No digital tools allowed in Round 3 — only creativity & storytelling.",
+    "Judges’ decisions will be final and binding."
+  ],
+  "contact": [
+    "Mr. Varun Singh - Faculty Coordinator",
+    "Ms. Sakshi Shahi - Faculty Coordinator",
+    "Mr. Shivanshu Baluni - B.COM 2nd Year",
+    "Ms. Kanishka - BBA 1st Year",
+    "Mr. Saurabh - MBA 1st Year"
+  ]
+}
+
+
+
+
 
 
   };
