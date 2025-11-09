@@ -37,7 +37,6 @@ const CoreTeam = () => {
       image: "https://tulas.edu.in/_next/static/media/sunilSemwal.b84902f9.png",
       social: { linkedin: "#", email: "arun@example.com" }
     },
-    
     {
       name: "Dr. Sanjay Sharma",
       designation: "Dean Student Welfare",
@@ -182,7 +181,7 @@ const CoreTeam = () => {
     {
       name: "Mr. Saurabh Singh",
       designation: "Assistant Professor, Computer Science Engineering",
-      image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
+      image: "/core/ss.jpeg",
       social: { linkedin: "#", email: "kavita@example.com" }
     }
   ];
