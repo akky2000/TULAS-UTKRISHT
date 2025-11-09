@@ -173,58 +173,58 @@ const CoreTeam = () => {
 
   const studentTeam = [
     {
-      name: "Arjun Malhotra",
-      role: "Overall Coordinator",
-      badge: "Management",
-      image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
+      name: "Aditya Sharma",
+      role: "Student Co-ordinator Utkrisht",
+      badge: "Coordinator",
+      image: "/core/Adi.jpg"
     },
     {
-      name: "Sneha Kapoor",
-      role: "Technical Head",
+      name: "Sneha Sariyal",
+      role: "Student Co-ordinator Utkrisht",
+      badge: "Coordinator",
+      image: "core/Sneha.jpg"
+    },
+    {
+      name: "Raj Kumar Bid",
+      role: "Student Co-ordinator Utkrisht",
+      badge: "Coordinator",
+      image: "/core/Raj.png"
+    },
+    {
+      name: "Abhishek Maurya",
+      role: "Tech Lead",
       badge: "Tech",
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
+      image: "/core/Abhi.jpeg"
     },
     {
-      name: "Rohan Verma",
-      role: "Design Head",
-      badge: "Design",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+      name: "Dhruv Dogra",
+      role: "Web Master",
+      badge: "Tech",
+      image: "/core/dhruv.jpeg"
     },
     {
-      name: "Priya Nair",
-      role: "PR & Marketing Lead",
-      badge: "PR",
-      image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&fit=crop"
+      name: "Akash Kumar",
+      role: "Web Master",
+      badge: "Tech",
+      image: "/core/akash.png"
     },
     {
-      name: "Karan Joshi",
-      role: "Events Manager",
-      badge: "Events",
-      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
+      name: "Vaibhav Chauhan",
+      role: "Web Master",
+      badge: "Tech",
+      image: "/core/vaibhav.jpg"
     },
     {
-      name: "Ananya Sharma",
-      role: "Content Lead",
-      badge: "Content",
-      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop"
-    },
-    {
-      name: "Aditya Singh",
-      role: "Sponsorship Manager",
-      badge: "Sponsorship",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop"
-    },
-    {
-      name: "Isha Gupta",
-      role: "Social Media Manager",
-      badge: "PR",
+      name: "Devanshu Purohit",
+      role: "Operations Lead",
+      badge: "Operations",
       image: "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=400&fit=crop"
     },
     {
-      name: "Varun Mehta",
-      role: "Workshop Coordinator",
-      badge: "Events",
-      image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop"
+      name: "Devashish Anand",
+      role: "Event Management",
+      badge: "Operations",
+      image: "/core/dev.jpeg"
     },
     {
       name: "Neha Reddy",
