@@ -38,24 +38,137 @@ const CoreTeam = () => {
       social: { linkedin: "#", email: "arun@example.com" }
     },
     {
-      name: "Prof. Meera Reddy",
-      designation: "Sponsorship Head",
-      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
+      name: "Dr. Sanjay Sharma",
+      designation: "Dean Student Welfare",
+      image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
       social: { linkedin: "#", email: "meera@example.com" }
     },
     {
-      name: "Dr. Suresh Iyer",
-      designation: "Operations Head",
-      image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
+      name: "Mr. Ashish Kumar",
+      designation: "Chief Proctor",
+      image: "https://tulas.edu.in/_next/static/media/AshishKumar.c0aeb601.webp",
       social: { linkedin: "#", email: "suresh@example.com" }
     },
     {
-      name: "Prof. Kavita Desai",
-      designation: "Hospitality Coordinator",
-      image: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=400&fit=crop",
+      name: "Dr. Sandeep Kumar",
+      designation: "Head of the Department, Computer Science Engineering",
+      image: "https://tulas.edu.in/_next/static/media/SandeepKumar.1b12d88b.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
+      name: "Mr. Tauseef Iqbal",
+      designation: "Head of the Department, JMC",
+      image: "https://tulas.edu.in/_next/static/media/TauseefIqbal.74ec6266.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
+      name: "Dr. Tripti Khanduri",
+      designation: "Head of the Department, Civil Engineering",
+      image: "https://tulas.edu.in/_next/static/media/Tripti.812510df.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
+      name: "Mr. Abhishek Chakravorty",
+      designation: "Head of the Department, EEE/ECE ",
+      image: "https://tulas.edu.in/_next/static/media/abhishekchakrovarty.8626209a.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
+      name: "Mr.Ankit Jain",
+      designation: "Head of the Department, Mechanical Engineering",
+      image: "https://tulas.edu.in/_next/static/media/AnkitJain.871b1985.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
+      name: "Mr. Mukesh Pathela",
+      designation: "Head of the Department, Applied Sciences and Humanities",
+      image: "https://tulas.edu.in/_next/static/media/MukeshPathela.4643d30b.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+
+    {
+      name: "Dr. Arghya Sarkar",
+      designation: "Head of the Department, Graduate School of Business",
+      image: "https://tulas.edu.in/_next/static/media/ArghyaSarkar.9aca3742.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
+      name: "Dr Priya Matta",
+      designation: "Head of the Department, Computer Applications",
+      image: "https://tulas.edu.in/_next/static/media/PriyaMatta.b7bfbb54.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+
+    {
+      name: "Dr. Sanjeev Kumar",
+      designation: "Professor, Computer Applications",
+      image: "https://tulas.edu.in/_next/static/media/SanjeevKumnar.2b7a4c0c.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+
+    {
+      name: "Dr. Sugam Gupta",
+      designation: "Associate Professor, Applied Sciences and Humanities",
+      image: "https://tulas.edu.in/_next/static/media/SugamGupta.32cf3e1e.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+
+    {
+      name: "Ms. Shaista Hasan",
+      designation: "Assistant Professor, Applied Sciences and Humanities",
+      image: "https://tulas.edu.in/_next/static/media/ShaistaHasan.c32aa85d.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+
+    {
+      name: "Ms. Deepika Rawat",
+      designation: "Assistant Professor, Journalism & Mass Comm.",
+      image: "https://tulas.edu.in/_next/static/media/deepkarawat.df9c11a2.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
+      name: "Mr. Neeraj Kotiyal",
+      designation: "Assistant Professor, Journalism & Mass Comm.",
+      image: "https://tulas.edu.in/_next/static/media/NeerajKotiyal.23802036.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
+      name: "Mr. Mohit Bisht",
+      designation: "Assistant Professor, Civil Engineering",
+      image: "https://tulas.edu.in/_next/static/media/MohitBisht.865c46d1.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
+      name: "Mr. Mohit Sharma",
+      designation: "Assistant Professor, Civil Engineering",
+      image: "https://tulas.edu.in/_next/static/media/mohitSharma.c0fa4d83.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
+      name: "Ms. Swati Yadav",
+      designation: "Assistant Professor, Graduate School of Business",
+      image: "https://tulas.edu.in/_next/static/media/SwatiYadav.d76ca863.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
+      name: "Mr. Emmanuel Gabriel",
+      designation: "Assistant Professor, Graduate School of Business",
+      image: "https://tulas.edu.in/_next/static/media/Emmanuel.573f837e.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+
+    {
+      name: "Mr. Rakesh Kumar",
+      designation: "Assistant Professor, Computer Applications",
+      image: "https://tulas.edu.in/_next/static/media/RakeshKumar.377ad3ff.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
+      name: "Mr. Saurabh Singh",
+      designation: "Assistant Professor, Computer Science Engineering",
+      image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
       social: { linkedin: "#", email: "kavita@example.com" }
     }
-    
   ];
 
   const studentTeam = [
