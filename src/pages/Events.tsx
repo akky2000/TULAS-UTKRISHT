@@ -411,6 +411,45 @@ const Events = () => {
   description:
     "The Big Balloon show” is a creative and interactive event designed to celebrate imagination, teamwork, and artistic expression. In this activity, participants collaboratively create a vibrant tree using colorful balloons. The balloon tree serves as a symbolic representation of growth, unity, and the endless possibilities of rising higher, just as the name ‘the big balloon show’ signifies aspiration. The event encourages participants to think innovatively and work together to transform simple materials into a meaningful and visually appealing creation. It not only enhances creative thinking and coordination among team members but also promotes a sense of joy, positivity, and collective achievement. Through this fun-filled and inspiring activity, The Big balloon aims to nurture creativity, strengthen bonds, and remind everyone that with teamwork and imagination, we can all soar to new heights.",
   poster: utkrishtPoster
+},
+
+{
+  id: "tradex",
+  title: "TRADE-X",
+  category: "CENTERSTAGE",
+  date: "13th November 2025",
+  time: "9:30 AM – 3:30 PM (6 Hours)",
+  participants: "Open to all",
+  prize: "Cash prizes.",
+  description:
+    "Experience the Thrill of Real-Time Trading: The Live Intraday Trading Competition offers participants a thrilling real-time stock market experience using virtual capital and live market data. Conducted during the Tech Fest, the event tests analytical skills, risk management, and decision-making under pressure. Participants trade to maximize portfolio returns, gaining practical exposure to financial markets while competing for exciting prizes and recognition as top trading strategists.",
+  poster: utkrishtPoster
+},
+
+{
+  id: "auction",
+  title: "Tula’s Auction League",
+  category: "CENTERSTAGE",
+  date: "13th November 2025",
+  time: "10:00 AM – 6:00 PM (8 Hours)",
+  participants: "Open to all",
+  prize: "Exciting prizes.",
+  description:
+    "The Tula’s Auction League is an innovative and engaging sporting event that combines the thrill of cricket with the excitement of a live player auction. Inspired by professional tournaments like the Indian Premier League (IPL), it introduces students or local players to the dynamics of team building, bidding strategies, and competitive gameplay. Unlike traditional cricket tournaments where teams are pre-decided, the Auction League begins with a player auction, where team owners or captains purchase players using a fixed virtual budget.This process not only ensures fairness and balanced team formation but also adds entertainment and strategic depth to the competition.",
+  poster: utkrishtPoster
+},
+
+{
+  id: "turtle race",
+  title: "Turtle Race",
+  category: "FUN ACTIVITY",
+  date: "14th November 2025",
+  time: "2:00 PM – 5:00 PM",
+  participants: "Open to all",
+  prize: "Exciting prizes.",
+  description:
+    "Turtle Race is one of the most exciting and entertaining events of Utkrisht, designed to test participants balance, control, and patience. Unlike traditional races where speed leads to victory, this unique challenge rewards those who can move slowly and steadily while maintaining perfect balance. The goal is simple yet tricky to be the last one to cross the finish line without losing control or touching the ground. This event is a blend of fun, focus, and physical coordination, giving participants an opportunity to showcase their composure and determination. It’s not just a race, it’s a test of endurance, concentration, and skill, all in the spirit of sportsmanship and enjoyment.",
+  poster: utkrishtPoster
 }
 
   ];

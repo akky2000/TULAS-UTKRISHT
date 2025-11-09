@@ -890,7 +890,7 @@ const EventDetail = () => {
 
 "the big": {
   "title": "THE BIG BALLOON SHOW",
-  "category": "Cultural",
+  "category": "FUN ACTIVITY",
   "date": "13th November 2025",
   "time": "11:00 AM – 2:00 PM (3 Hours)",
   "venue": "Near Auditorium",
@@ -926,7 +926,7 @@ const EventDetail = () => {
 
 "bgmi-tournament": {
   "title": "BATTLEGROUNDS MOBILE INDIA (BGMI) TOURNAMENT",
-  "category": "Gaming / eSports",
+  "category": "CENTERSTAGE",
   "date": "29th November 2024",
   "time": "4:00 PM – 10:00 PM",
   "venue": "Lab 1 and Lab 4",
@@ -954,7 +954,107 @@ const EventDetail = () => {
     "Mr. Sharad partap Singh",
     "Mr Girish Singh Bisht"
   ]
-}
+},
+
+"tradex": {
+  "title": "TRADE-X",
+  "category": "CENTERSTAGE",
+  "date": "13th November 2025",
+  "time": "9:30 AM – 3:30 PM (6 Hours)",
+  "prize": "Cash prizes",
+  "venue": "GSB department",
+  "participants": "Open to all students",
+  "description": "The Live Intraday Trading Competition offers participants a real-time stock market experience using virtual capital and live market data. Conducted during the Tech Fest, it challenges participants to demonstrate their analytical thinking, risk management, and decision-making skills in a simulated trading environment. The competition provides practical exposure to financial markets and investment strategies while fostering financial literacy and confidence among students.",
+  "rules": [
+    "Each participant will be provided with a fixed amount of virtual capital to trade during the event.",
+    "All trading must be conducted exclusively on the authorized B-School Bulls platform.",
+    "Trading is allowed strictly within the designated 6-hour window (9:30 AM – 3:30 PM).",
+    "Participants are prohibited from using external trading tools, bots, or third-party assistance.",
+    "Any attempt to manipulate or disrupt the trading environment will lead to disqualification.",
+    "Portfolio performance will be monitored and verified by the coordinators in real-time.",
+    "Evaluation will be based on profit/loss and overall return on virtual capital at the end of the session.",
+    "In the event of a tie, decision-making quality and risk management strategy may be considered.",
+    "Participants must maintain decorum and comply with all coordinator instructions.",
+    "Any violation of the rules or unethical conduct will result in immediate disqualification."
+  ],
+  "contact": [
+    "Ms. Neetika Gupta (Faculty Coordinator)",
+    "Mr. Prakash Bhatnagar (Faculty Coordinator)",
+    "Adarsh Negi (Student Coordinator)",
+    "Ankit Kumar (Student Coordinator)",
+    "Namira Ansari (Student Coordinator)"
+  ]
+},
+
+"auction": {
+  "title": "TULA’S AUCTION LEAGUE",
+  "category": "CENTERSTAGE",
+  "date": "13th November 2025",
+  "time": "10:00 AM – 6:00 PM (8 Hours)",
+  "venue": "Tula’s Institute Campus",
+  "participants": "Open to all Tula’s students (Individual Registration)",
+  "prize": "Certificates and prizes to top performers",
+  "description": "Tula’s Auction League is a unique and dynamic event that blends the excitement of cricket with the strategic intensity of a live player auction. Inspired by the IPL format, participants take part in an engaging process of team creation through bidding and budget management. This innovative format promotes sportsmanship, leadership, and decision-making while offering a fun and interactive learning experience for all participants.",
+  "rules": [
+    "The event is open exclusively to students of Tula’s Institute.",
+    "Participants must register individually using the QR code provided by the organizers.",
+    "The competition will be conducted in 3 rounds with distinct challenges and themes.",
+    "Round 1 will consist of 25 questions focusing on analytical and logical skills.",
+    "Round 2 will include 20 questions testing decision-making and strategic thinking.",
+    "Round 3 will simulate a live auction experience involving team selection and management.",
+    "Evaluation will be based on accuracy, efficiency, and total time taken across all rounds.",
+    "Teams formed through the auction will compete in cricket matches as per event schedule.",
+    "Participants must adhere to the time limits and guidelines provided by coordinators.",
+    "Any form of misconduct, argument, or violation of fair play will lead to disqualification.",
+    "All results and decisions made by judges or event coordinators will be final and binding.",
+    "Participants are expected to maintain discipline, sportsmanship, and decorum throughout the event.",
+    "College property and event materials must be handled responsibly.",
+    "The organizers reserve the right to modify the rounds or structure if required.",
+    "Certificates and prizes will be awarded to the top-performing teams and individuals."
+  ],
+  "contact": [
+    "Dr. Abdal Ahmed (Faculty Coordinator)",
+    "Ms. Kajal Chatri (Faculty Coordinator)",
+    "Sajal Mittal (Student Coordinator)",
+    "Sneha Singh (Student Coordinator)",
+    "Sourav Rawat (Student Coordinator)",
+    "Afsha Naaz (Student Coordinator)",
+    "Pankaj Kalakoti (Student Coordinator)",
+    "Neha Bhagat (Student Coordinator)",
+    "Siddhim Paliwal (Student Coordinator)",
+    "Priyanka Kumari (Student Coordinator)",
+    "Ayushi Priya (Student Coordinator)"
+  ]
+},
+
+"turtle race": {
+  "title": "TURTLE RACE",
+  "category": "FUN ACTIVITY",
+  "date": "14th November 2025",
+  "time": "2:00 PM – 5:00 PM",
+  "venue": "Basketball Ground",
+  "participants": "Individual Participation (Open to all students)",
+  "prize": "Certificates and prizes for winners",
+  "description": "Turtle Race is a fun-filled and thrilling event designed to test participants’ balance, control, and patience. Unlike traditional races focused on speed, this challenge rewards the slowest and most steady rider who crosses the finish line without losing balance or control. It’s an event of focus, endurance, and composure — where slow and steady truly wins the race.",
+  "rules": [
+    "Each participant must ride their bicycle as slowly as possible without stopping or losing balance.",
+    "The winner will be the participant who crosses the finish line last without touching the ground or leaving the designated track.",
+    "Participants using their feet or hands to maintain balance will be immediately disqualified.",
+    "The bicycle must remain within the marked racing area throughout the event.",
+    "Any external assistance or interference during the race is prohibited.",
+    "Participants must use their own bicycles and ensure they are in proper working condition.",
+    "All participants must wear appropriate safety gear including a helmet.",
+    "Judges will assess performance based on Time Taken, Control, Balance, and Adherence to Rules.",
+    "Any act of misbehavior, unsafe conduct, or disregard for instructions will lead to disqualification.",
+    "The decision of the judges and event coordinators will be final and binding.",
+    "Participants should maintain discipline and sportsmanship throughout the event.",
+    "The organizers reserve the right to modify or cancel the event schedule in case of unforeseen circumstances."
+  ],
+  "contact": [
+    "Dr. Ashish Mishra (Associate Professor, Applied Sciences and Humanities) - 9557738263",
+    "Mr. Deepak Chandola (Assistant Professor, Applied Sciences and Humanities) - 9997125399"
+  ]
+},
 
 
   };
