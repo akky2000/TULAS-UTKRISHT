@@ -10,6 +10,7 @@ import { SEO } from "@/components/SEO";
 import hackathonPoster from "@/assets/events/hackathon.jpg";
 import roboWarsPoster from "@/assets/events/robo-wars.jpg";
 import aiWorkshopPoster from "@/assets/events/ai-workshop.jpg";
+import utkrishtPoster from "@/assets/events/temp.jpg";
 
 const EVENT_DATE = new Date('2025-11-14T09:00:00');
 
@@ -21,9 +22,20 @@ const Index = () => {
     category: "CENTERSTAGE",
     date: "November 13, 2025",
     participants: "Teams of 2-4",
-    poster: hackathonPoster,
+    poster: utkrishtPoster,
     prize: "Exciting Rewards",
     description: " Compete in our thrilling BGMI Tournament and showcase your gaming skills to claim victory."
+  },
+
+  {
+    id: "robo-wars",
+    title: "ARMAGEDDON - Robo Wars",
+    category: "CENTERSTAGE",
+    date: "November 14, 2025",
+    participants: "Teams of 4",
+    poster: roboWarsPoster,
+    prize: "TBA",
+    description: "Build and battle robots in an arena to outlast and outfight your opponents."
   },
   {
     id: "investors-den",
@@ -31,20 +43,11 @@ const Index = () => {
     category: "CENTERSTAGE",
     date: "November 13, 2025",
     participants: "Teams of 4",
-    poster: roboWarsPoster,
+    poster: utkrishtPoster,
     prize: "TBA",
     description: "Design and program autonomous robot to play soccer against competing teams."
-  },
-  {
-    id: "robo-wars",
-    title: "ARMAGEDDON - Robo Wars",
-    category: "ECE",
-    date: "November 14, 2025",
-    participants: "Teams of 4",
-    poster: roboWarsPoster,
-    prize: "TBA",
-    description: "Build and battle robots in an arena to outlast and outfight your opponents."
   }
+  
 ];
 
 
