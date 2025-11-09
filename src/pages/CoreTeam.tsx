@@ -65,6 +65,12 @@ const CoreTeam = () => {
       social: { linkedin: "#", email: "kavita@example.com" }
     },
     {
+      name: "Mr. Gaurav Singh",
+      designation: "Creative and Multimedia Head",
+      image: "/core/gaurav.jpeg",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
       name: "Mr. Ashish Kumar",
       designation: "Chief Proctor",
       image: "https://tulas.edu.in/_next/static/media/AshishKumar.c0aeb601.webp",
@@ -228,7 +234,7 @@ const CoreTeam = () => {
       name: "Devanshu Purohit",
       role: "Operations Lead",
       badge: "Operations",
-      image: "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=400&fit=crop"
+      image: "/core/devanshu.jpeg"
     },
     {
       name: "Devashish Anand",
