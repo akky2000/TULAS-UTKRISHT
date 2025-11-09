@@ -412,6 +412,46 @@ const CoreTeam = () => {
                     <li>Aradhya</li>
                   </ul>
                 </div>
+                <div className="group bg-card border border-border rounded-xl overflow-hidden hover:border-secondary transition-all duration-300 hover:shadow-[0_0_30px_rgba(6,182,212,0.3)] animate-fade-in flex flex-col justify-center p-6 text-center">
+                  <h3 className="text-base font-bold mb-3">Decoration Team</h3>
+                  <ul className="list-disc list-inside text-muted-foreground text-sm text-left mx-auto max-w-[220px] space-y-1">
+                    <li>Om Tiwari</li>
+                    <li>Rahul Raj</li>
+                    <li>Rudra Singh</li>
+                    <li>Bipin Kumar</li>
+                    <li>Anupriya Chauhan</li>
+                    <li>Ridhi Vohra</li>
+                    <li>Rahul Panwar</li>
+                    <li>Chirag Tamang</li>
+                    <li>Prateek Pal</li>
+                    <li>Neha Thakur</li>
+                    <li>Shireen</li>
+                    <li>Madhulika</li>
+                    <li>Priyank Singh</li>
+                    <li>Ujjwal</li>
+                    
+                  </ul>
+                </div>
+                <div className="group bg-card border border-border rounded-xl overflow-hidden hover:border-secondary transition-all duration-300 hover:shadow-[0_0_30px_rgba(6,182,212,0.3)] animate-fade-in flex flex-col justify-center p-6 text-center">
+                  <h3 className="text-base font-bold mb-3">Decoration Team</h3>
+                  <ul className="list-disc list-inside text-muted-foreground text-sm text-left mx-auto max-w-[220px] space-y-1">
+                    <li>Aditya Pathak</li>
+                    <li>Shubh Bhatnagar</li>
+                    <li>Mohit Sharma</li>
+                    <li>Uvaiz Ali</li>
+                    <li>Gungun Rai</li>
+                    <li>Vedansh Chauhan</li>
+                    <li>Shubham Sajwan</li>
+                    <li>Passang Lhamo</li>
+                    <li>Debojyoti Paul</li>
+                    <li>Akshit Bhandari</li>
+                    <li>Ratan Pandey</li>
+                    <li>Kanha Pandey</li>
+                    <li>Amritansha</li>
+                    <li>Kirti Kumari</li>
+                  </ul>
+                </div>
+
               </div>
             </div>
           </section>
