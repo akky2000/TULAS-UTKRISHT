@@ -221,7 +221,7 @@ const CoreTeam = () => {
       name: "Akash Kumar",
       role: "Web Master",
       badge: "Tech",
-      image: "/core/akash.png"
+      image: "/core/akash.jpg"
     },
     {
       name: "Vaibhav Chauhan",
