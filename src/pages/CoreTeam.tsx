@@ -48,7 +48,7 @@ const CoreTeam = () => {
       name: "Mr. Tauseef Iqbal",
       designation: (
     <>
-      Lead Convener<br />Head of Department, JMC
+      Convener<br />Head of Department, JMC
     </>
   ),
       image: "https://tulas.edu.in/_next/static/media/TauseefIqbal.74ec6266.webp",
@@ -58,7 +58,7 @@ const CoreTeam = () => {
       name: "Dr. Tripti Khanduri",
       designation: (
     <>
-      Lead Convener<br />Head of Department, Civil Engineering
+      Convener<br />Head of Department, Civil Engineering
     </>
   ),
       image: "https://tulas.edu.in/_next/static/media/Tripti.812510df.webp",
