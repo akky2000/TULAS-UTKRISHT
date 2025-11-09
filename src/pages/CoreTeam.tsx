@@ -221,7 +221,11 @@ const CoreTeam = () => {
       name: "Akash Kumar",
       role: "Web Master",
       badge: "Tech",
+<<<<<<< Updated upstream
       image: "/core/akash.jpg"
+=======
+      image: "/core/akash.jpeg"
+>>>>>>> Stashed changes
     },
     {
       name: "Vaibhav Chauhan",
@@ -242,41 +246,84 @@ const CoreTeam = () => {
       image: "/core/dev.jpeg"
     },
     {
-      name: "Neha Reddy",
-      role: "Logistics Head",
+      name: "Arpit Chadha",
+      role: "Media Team",
+      badge: "Media",
+      image: "/core/arpit.jpg"
+    },
+    {
+      name: "Sudhanshu Kumar",
+      role: "Media Team",
+      badge: "Media",
+      image: "public/core/Sudhanshu .jpg"
+    },
+    {
+      name: "Arjun Kumar Yadav",
+      role: "Media Team",
+      badge: "Media",
+      image: "/core/Arjun.jpg"
+    },
+    {
+      name: "Rahul Kumar Pandey",
+      role: "Logistics",
       badge: "Operations",
-      image: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=400&fit=crop"
+      image: "/core/Rahul.jpg"
     },
     {
-      name: "Rahul Patel",
-      role: "Web Development Lead",
-      badge: "Tech",
-      image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
-    },
-    {
-      name: "Divya Kumar",
-      role: "Hospitality Manager",
+      name: "Shreya Jakhmola",
+      role: "Backstage Team",
       badge: "Operations",
-      image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop"
+      image: "/core/Shreya.jpg"
     },
     {
-      name: "Amit Desai",
-      role: "Registration Head",
-      badge: "Management",
-      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop"
-    },
-    {
-      name: "Pooja Iyer",
-      role: "Creative Director",
-      badge: "Design",
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop"
-    },
-    {
-      name: "Siddharth Rao",
-      role: "Security Coordinator",
+      name: "Anisha Gusain",
+      role: "Backstage Team",
       badge: "Operations",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+      image: "/core/Anisha.jpg"
+    },
+    {
+      name: "Muskan",
+      role: "Backstage Team",
+      badge: "Operations",
+      image: "/core/Muskan.jpg"
+    },
+    {
+      name: "Riya Uniyal",
+      role: "Backstage Team",
+      badge: "Operations",
+      image: "/core/Riya.jpg"
+    },
+    {
+      name: "Khushi Gangola",
+      role: "Backstage Team",
+      badge: "Operations",
+      image: "/core/Khushi.jpg"
+    },
+    {
+      name: "Anushka Kumari",
+      role: "Backstage Team",
+      badge: "Operations",
+      image: "/core/Anu.jpg"
+    },
+    {
+      name: "Passang Lhamo",
+      role: "Decoration Team",
+      badge: "Art & Design",
+      image: "/core/Passang.jpg"
+    },
+    {
+      name: "Madhulika",
+      role: "Decoration Team",
+      badge: "Art & Design",
+      image: "/core/Madhu.jpeg"
+    },
+    {
+      name: "Ujjwal",
+      role: "Decoration Team",
+      badge: "Art & Design",
+      image: "/core/Ujjwal.jpg"
     }
+    
   ];
 
   const badgeColors: Record<string, string> = {
