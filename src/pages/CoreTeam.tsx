@@ -251,7 +251,7 @@ const CoreTeam = () => {
       name: "Sudhanshu Kumar",
       role: "Media Team",
       badge: "Media",
-      image: "public/core/Sudhanshu .jpg"
+      image: "public/core/Sudhanshu.jpg"
     },
     {
       name: "Arjun Kumar Yadav",
