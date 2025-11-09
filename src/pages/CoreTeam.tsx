@@ -37,11 +37,32 @@ const CoreTeam = () => {
       image: "https://tulas.edu.in/_next/static/media/sunilSemwal.b84902f9.png",
       social: { linkedin: "#", email: "arun@example.com" }
     },
+    
     {
       name: "Dr. Sanjay Sharma",
       designation: "Dean Student Welfare",
       image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
       social: { linkedin: "#", email: "meera@example.com" }
+    },
+    {
+      name: "Mr. Tauseef Iqbal",
+      designation: (
+    <>
+      Lead Convener<br />Head of Department, JMC
+    </>
+  ),
+      image: "https://tulas.edu.in/_next/static/media/TauseefIqbal.74ec6266.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
+      name: "Dr. Tripti Khanduri",
+      designation: (
+    <>
+      Lead Convener<br />Head of Department, Civil Engineering
+    </>
+  ),
+      image: "https://tulas.edu.in/_next/static/media/Tripti.812510df.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
     },
     {
       name: "Mr. Ashish Kumar",
@@ -55,18 +76,7 @@ const CoreTeam = () => {
       image: "https://tulas.edu.in/_next/static/media/SandeepKumar.1b12d88b.webp",
       social: { linkedin: "#", email: "kavita@example.com" }
     },
-    {
-      name: "Mr. Tauseef Iqbal",
-      designation: "Head of the Department, JMC",
-      image: "https://tulas.edu.in/_next/static/media/TauseefIqbal.74ec6266.webp",
-      social: { linkedin: "#", email: "kavita@example.com" }
-    },
-    {
-      name: "Dr. Tripti Khanduri",
-      designation: "Head of the Department, Civil Engineering",
-      image: "https://tulas.edu.in/_next/static/media/Tripti.812510df.webp",
-      social: { linkedin: "#", email: "kavita@example.com" }
-    },
+    
     {
       name: "Mr. Abhishek Chakravorty",
       designation: "Head of the Department, EEE/ECE ",
