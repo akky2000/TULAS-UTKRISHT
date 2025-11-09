@@ -40,7 +40,7 @@ const CoreTeam = () => {
     {
       name: "Dr. Sanjay Sharma",
       designation: "Dean Student Welfare",
-      image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
+      image: "/core/Sanjay.jpeg",
       social: { linkedin: "#", email: "meera@example.com" }
     },
     {
@@ -61,12 +61,6 @@ const CoreTeam = () => {
     </>
   ),
       image: "https://tulas.edu.in/_next/static/media/Tripti.812510df.webp",
-      social: { linkedin: "#", email: "kavita@example.com" }
-    },
-    {
-      name: "Mr. Gaurav Singh",
-      designation: "Creative and Multimedia Head",
-      image: "/core/gaurav.jpeg",
       social: { linkedin: "#", email: "kavita@example.com" }
     },
     {
@@ -139,6 +133,12 @@ const CoreTeam = () => {
       name: "Ms. Deepika Rawat",
       designation: "Assistant Professor, Journalism & Mass Comm.",
       image: "https://tulas.edu.in/_next/static/media/deepkarawat.df9c11a2.webp",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
+    {
+      name: "Mr. Gaurav Singh",
+      designation: "Creative and Multimedia Head",
+      image: "/core/gaurav.jpeg",
       social: { linkedin: "#", email: "kavita@example.com" }
     },
     {
@@ -218,6 +218,18 @@ const CoreTeam = () => {
       image: "/core/dhruv.jpeg"
     },
     {
+      name: "Madhulika",
+      role: "Head Art and Decor Team",
+      badge: "Art & Decor",
+      image: "/core/Madhu.jpeg"
+    },
+    {
+      name: "Ujjwal",
+      role: "Head Art and Decor Team",
+      badge: "Art & Decor",
+      image: "/core/Ujjwal.jpg"
+    },
+    {
       name: "Akash Kumar",
       role: "Web Master",
       badge: "Tech",
@@ -260,64 +272,22 @@ const CoreTeam = () => {
       image: "/core/Arjun.jpg"
     },
     {
-      name: "Rahul Kumar Pandey",
-      role: "Logistics",
-      badge: "Operations",
-      image: "/core/Rahul.jpg"
-    },
-    {
-      name: "Shreya Jakhmola",
-      role: "Backstage Team",
-      badge: "Operations",
-      image: "/core/Shreya.jpg"
-    },
-    {
-      name: "Anisha Gusain",
-      role: "Backstage Team",
-      badge: "Operations",
-      image: "/core/Anisha.jpg"
-    },
-    {
-      name: "Muskan",
-      role: "Backstage Team",
-      badge: "Operations",
-      image: "/core/Muskan.jpg"
-    },
-    {
-      name: "Riya Uniyal",
-      role: "Backstage Team",
-      badge: "Operations",
-      image: "/core/Riya.jpg"
-    },
-    {
       name: "Khushi Gangola",
-      role: "Backstage Team",
-      badge: "Operations",
+      role: "Media Team",
+      badge: "Media",
       image: "/core/Khushi.jpg"
     },
     {
       name: "Anushka Kumari",
-      role: "Backstage Team",
-      badge: "Operations",
+      role: "Media Team",
+      badge: "Media",
       image: "/core/Anu.jpg"
     },
     {
-      name: "Passang Lhamo",
-      role: "Decoration Team",
-      badge: "Art & Design",
-      image: "/core/Passang.jpg"
-    },
-    {
-      name: "Madhulika",
-      role: "Decoration Team",
-      badge: "Art & Design",
-      image: "/core/Madhu.jpeg"
-    },
-    {
-      name: "Ujjwal",
-      role: "Decoration Team",
-      badge: "Art & Design",
-      image: "/core/Ujjwal.jpg"
+      name: "Rahul Kumar Pandey",
+      role: "Logistics",
+      badge: "Operations",
+      image: "/core/Rahul.jpg"
     }
     
   ];
