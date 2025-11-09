@@ -26,7 +26,7 @@ const Index = () => {
     description: " Compete in our thrilling BGMI Tournament and showcase your gaming skills to claim victory."
   },
   {
-    id: "trading",
+    id: "investors-den",
     title: "INVESTORS DEN",
     category: "CENTERSTAGE",
     date: "November 13, 2025",

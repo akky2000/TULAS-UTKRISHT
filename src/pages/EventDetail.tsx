@@ -783,9 +783,178 @@ const EventDetail = () => {
     "Miss Yati Gaur (Spokesperson)"
   ]
 },
+"echo": {
+  "title": "ECHOES OF TALENT 2.O",
+  "category": "FUN ACTIVITY",
+  "date": "Thursday, 13th November 2025",
+  "time": "02:00 PM – 5:00 PM (3 Hours)",
+  "venue": "Open Ground Near Tendulkar’s Pavilion",
+  "participants": "Open to all students",
+  "prize": "TBA",
+  "description": "Echoes of Talent 2.O is a vibrant cultural showcase that celebrates the creativity and passion of students. The event provides an open platform for participants to express themselves through singing, dancing, acting, stand-up comedy, and other performing arts. It aims to inspire confidence, highlight individuality, and create a joyful atmosphere of artistic expression and entertainment.",
+  "rules": [
+  "The event is open to all students of the institution.",
+  "Participants can register individually or in groups depending on the performance type.",
+  "Each participant or group can perform in only one category — Singing, Dancing, Acting, or Other Talents.",
+  "Each performance must strictly adhere to the time limit of 1–3 minutes.",
+  "Exceeding the time limit may result in deduction of marks or disqualification.",
+  "All performances must maintain decency and respect; offensive language, gestures, or content are strictly prohibited.",
+  "Microphones, speakers, and a basic sound setup will be provided at the venue.",
+  "Judging will be based on Talent/Skill, Creativity, Stage Presence, Entertainment Value, and Overall Impact.",
+  "The decision of the judging panel will be final and binding.",
+  "Top performers will receive certificates of recognition; special mentions may be awarded for exceptional acts.",
+],
 
+  "contact": [
+    "Ms. Divya Negi(Faculty Coordinator)",
+    "Mr. Siddharth Sharma(Faculty Coordinator)",
+    "Mr. Ayush chandrol (Faculty Coordinator)"
+  ]
+},
 
+"escape": {
+  "title": "ESCAPE ROOM   2.0",
+  "category": "CA",
+  "date": "13th November 2025",
+  "time": "02:00 PM – 5:00 PM (3 Hours)",
+  "venue": "Lab 2/Lab 3",
+  "participants": "Open to CA/CSE students",
+  "prize": "Certificates and prizes",
+  "description": "Echoes of Talent 2.O is a vibrant cultural showcase that celebrates the creativity and passion of students. The event provides an open platform for participants to express themselves through singing, dancing, acting, stand-up comedy, and other performing arts. It aims to inspire confidence, highlight individuality, and create a joyful atmosphere of artistic expression and entertainment.",
+  "rules": [
+  "The event is open to students from the CA and CSE departments only.",
+  "Participants can register individually or in teams as specified.",
+  "The event will consist of three phases, each increasing in difficulty and complexity.",
+  "Participants must clear each phase to qualify for the next round.",
+  "Phase 1 will include Quantitative Aptitude, Logical Reasoning, and Technical Puzzles.",
+  "Phase 2 will test analytical thinking through Sudoku or Crossword solving.",
+  "Phase 3, titled 'Swap the Coat, Fix the Code', will evaluate coding ability and debugging skills.",
+  "The total number of questions across all phases will be approximately 30+01+03 (subject to change).",
+  "The total duration of the competition will be 2 hours.",
+  "Evaluation will be based on accuracy, efficiency, and total time taken to complete all challenges.",
+  "Participants must submit answers within the given time limits; late submissions will not be considered.",
+  "The event will be conducted on designated digital platforms such as Google Classroom and Canvas LMS.",
+  "Use of the internet or external help during the competition is strictly prohibited unless explicitly allowed.",
+  "Teams will progress to the next level only after successfully completing the qualifying criteria for the previous round.",
+  "Judging criteria will include correctness of code (60%), code quality (20%), and speed of submission (20%).",
+  "In case of a tie, submission time will be used as the deciding factor.",
+  "Participants must maintain discipline, integrity, and fair play throughout the event.",
+  "Any form of malpractice or violation of rules will result in immediate disqualification.",
+  "The decision of the judges and faculty coordinators will be final and binding.",
+  "Certificates and prizes will be awarded to top-performing participants or teams.",
+  "Participants are encouraged to approach challenges collaboratively and demonstrate logical and innovative thinking."
+],
 
+  "contact": [
+    "Mr. Mohd Mursleen(Faculty Coordinator)",
+    "Ms. Payal Manwal(Faculty Coordinator)",
+    "Ms. Hemlata Gairola (Faculty Coordinator)"
+  ]
+},
+
+"battle of thoughts": {
+  "title": "BATTLE OF THOUGHTS",
+  "category": "CA",
+  "date": "14th November 2025",
+  "time": "1:00 PM – 4:00 PM (3 Hours)",
+  "venue": "P-801 (Pharmacy Block)",
+  "participants": "Open to all Undergraduate and Graduate students",
+  "prize": "Certificates and prizes",
+  "description": "Battle of Thoughts is a formal debating competition where participants speak for or against a given topic, present logical arguments, counter opponents’ statements, and convince judges with strong reasoning, clarity, and confidence. The event aims to develop communication skills, critical thinking, leadership, and the ability to think under pressure.",
+  "rules": [
+    "The event is open to all undergraduate and graduate students.",
+    "Participants can register individually or as a team, as per the event format.",
+    "Each participant or team will be assigned a topic and must speak either for or against it.",
+    "Speeches must be well-structured, logical, and relevant to the given topic.",
+    "Participants must present arguments supported by facts, data, or real-life examples.",
+    "Rebuttals should be logical, respectful, and directly address the opponent’s statements.",
+    "Reading directly from paper or mobile phones is discouraged; natural delivery is expected.",
+    "Participants must maintain respectful behavior toward opponents and judges.",
+    "Each speaker must adhere to the time limit specified by the organizers.",
+    "Use of offensive, discriminatory, or inappropriate language will lead to disqualification.",
+    "Judging will be based on Content & Argument Strength (30%), Clarity & Communication (20%), Rebuttal Skills (20%), Presentation & Body Language (15%), Time Management (10%), and Team Coordination (5%).",
+    "Participants should maintain eye contact, confident posture, and proper stage presence.",
+    "All speeches must be original and plagiarism-free.",
+    "Equal participation and coordination are mandatory in team debates.",
+    "The decision of the judges will be final and binding.",
+    "Winners will receive certificates and prizes in recognition of their performance.",
+    "Participants are encouraged to demonstrate logical reasoning, respectful disagreement, and confidence throughout the event."
+  ],
+  "contact": [
+    "Mr. Akhilesh Pandey (Faculty Coordinator)",
+    "Mr. Anand Ojha (Faculty Coordinator)",
+    "Mohit (Student Coordinator) - 8755115115",
+    "Bhavesh Joshi (Student Coordinator) - 8755115115"
+  ]
+},
+
+"the big": {
+  "title": "THE BIG BALLOON SHOW",
+  "category": "Cultural",
+  "date": "13th November 2025",
+  "time": "11:00 AM – 2:00 PM (3 Hours)",
+  "venue": "Near Auditorium",
+  "participants": "Open to all students",
+  "prize": "Certificates and prizes",
+  "description": "The Big Balloon Show is a creative and interactive event designed to celebrate imagination, teamwork, and artistic expression. In this activity, participants collaboratively create a vibrant 'Tree of Growth' using colorful balloons. The event symbolizes unity, growth, and the boundless potential to rise higher together, promoting creativity, joy, and collective achievement.",
+  "rules": [
+    "The event is open to all students across departments.",
+    "Participants will form small teams as per organizer instructions.",
+    "Each team will be provided with balloons and basic decorative materials by the organizers.",
+    "Teams must design and construct a creative 'Tree of Growth' entirely using balloons within the given time limit.",
+    "The balloon structure should be self-supporting and stable.",
+    "Teams are encouraged to use innovative color combinations, decorations, and designs.",
+    "External materials other than those provided by the organizers are not allowed unless permitted.",
+    "Participants must complete their design within the allotted 3-hour duration.",
+    "The final display must remain intact until the end of the event for evaluation and photography.",
+    "Teams are expected to maintain cleanliness and handle materials responsibly.",
+    "Judging will be based on the Height of the Balloon Tree (60%) and Creativity & Decoration (40%).",
+    "All decisions by the judges and event coordinators will be final and binding.",
+    "Participants must maintain discipline and cooperative behavior throughout the event.",
+    "Damaging event property or causing disturbance will lead to disqualification.",
+    "Certificates and prizes will be awarded to the top-performing teams.",
+    "The event aims to encourage creativity, teamwork, and the spirit of unity among participants."
+  ],
+  "contact": [
+    "Mrs. Apoorva Talwar (Faculty Coordinator)",
+    "Mr. Devendra Sood (Faculty Coordinator)",
+    "Ms. Ananya Sharma (Faculty Coordinator)",
+    "Anivesh (Student Coordinator) - 9523467896",
+    "Adishty (Student Coordinator) - 8406000095"
+  ]
+},
+
+"bgmi-tournament": {
+  "title": "BATTLEGROUNDS MOBILE INDIA (BGMI) TOURNAMENT",
+  "category": "Gaming / eSports",
+  "date": "29th November 2024",
+  "time": "4:00 PM – 10:00 PM",
+  "venue": "Lab 1 and Lab 4",
+  "participants": "Team participation (maximum 4 members per team)",
+  "prize": "Total Prize Pool ₹30,000 (1st – ₹15,000, 2nd – ₹7,000, 3rd – ₹5,000, MVP – ₹1,000, Most Eliminations – ₹1,000, Iconic Moment – ₹1,000)",
+  "description": "Join us for an exciting BGMI (Battlegrounds Mobile India) tournament at the college Tech Fest ‘UTKRISHT’! Compete against the best teams, showcase your skills, and battle for thrilling prizes. Whether you're a seasoned player or a newcomer, this is your chance to experience the adrenaline rush of one of India's most popular mobile games.",
+  "rules": [
+    "Only registered players are eligible to participate.",
+    "Each team can have a maximum of 4 members.",
+    "Players must be present at the venue before the match begins.",
+    "Teams arriving late will be eliminated from the match.",
+    "Use of third-party or unauthorized apps is strictly prohibited.",
+    "Any form of cheating will lead to immediate disqualification of the entire team.",
+    "Participants must bring their own mobile devices and accessories.",
+    "No restrictions on device brands or models, but players are responsible for their equipment.",
+    "Players must ensure stable internet connectivity for smooth gameplay.",
+    "Any kind of misbehavior or verbal abuse towards other teams or organizers will lead to penalties.",
+    "Respect college property and maintain discipline within the venue.",
+    "Damaging college infrastructure will lead to immediate disqualification and disciplinary action.",
+    "Organizers hold the right to modify rules or match formats if required.",
+    "The decision of the judges and event coordinators will be final and binding.",
+    "Fair play, teamwork, and professionalism are expected throughout the tournament."
+  ],
+  "contact": [
+    "Mr. Sharad partap Singh",
+    "Mr Girish Singh Bisht"
+  ]
+}
 
 
   };

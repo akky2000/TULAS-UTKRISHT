@@ -32,7 +32,7 @@ import utkrishtPoster from "@/assets/events/temp.jpg";
 const Events = () => {
   const [selectedCategory, setSelectedCategory] = useState("All");
 
-  const categories = ["All","CENTERSTAGE","ASH", "CIVIL", "EEE/ECE", "AGRI","MECHANICAL","GSB", "CSE","PHARMACY","FUN ACTIVITY"];
+  const categories = ["All","CENTERSTAGE","ASH", "CIVIL", "EEE/ECE", "AGRI","MECHANICAL","GSB", "CSE","PHARMACY","CA","JMC","FUN ACTIVITY"];
 
   const events = [
     {
@@ -362,8 +362,56 @@ const Events = () => {
   description:
     "A pottery demonstration showcasing the foundational techniques of creating a vessel on a potter's wheel. The session highlights the transformation of simple clay (earth and water) into a functional art piece through skill and heat (fire and air). This hands-on training offers an immersive experience for participants to learn forming processes and shaping techniques under expert guidance.",
   poster: utkrishtPoster
-}
+},
+{
+  id: "echo",
+  title: "ECHOES OF TALENT 2.O",
+  category: "FUN ACTIVITY",
+  date: "November 13, 2025",
+  time: "2:00 PM – 5:00 PM",
+  participants: "Open for all students",
+  prize: "Certificates for Participants",
+  description:
+    "Echoes of Talent 2.O is a vibrant cultural showcase that celebrates the creativity and passion of students. The event provides an open platform for participants to express themselves through singing, dancing, acting, stand-up comedy, and other performing arts. It aims to inspire confidence, highlight individuality, and create a joyful atmosphere of artistic expression and entertainment.",
+  poster: utkrishtPoster
+},
+{
+  id: "escape",
+  title: "ESCAPE ROOM   2.0",
+  category: "CA",
+  date: "November 13, 2025",
+  time: "2:00 PM – 5:00 PM",
+  participants: "Open for CA/CSE students",
+  prize: "Certificates for Participants",
+  description:
+    "The Escape Room 2.0  event is an intellectually stimulating and fun-filled competition designed to test participants’ problem-solving, analytical thinking, and technical abilities through a series of challenging phases. Each round progressively increases in complexity, encouraging logical reasoning, collaboration, and quick decision-making. Participants must clear each phase to unlock the next, ultimately aiming to “escape” by cracking the final challenge.",
+  poster: utkrishtPoster
+},
+{
+  id: "battle of thoughts",
+  title: "BATTLE OF THOUGHTS",
+  category: "CENTERSTAGE",
+  date: "14th November 2025",
+  time: "1:00 PM – 4:00 PM ",
+  participants: "Open to all",
+  prize: "Certificates for Participants",
+  description:
+    "A Battle of Thoughts Competition is a formal event where participants speak for or against a topic, present logical arguments, counter opponents’ statements, and convince judges with strong reasoning, clarity, and confidence.It develops communication skills, critical thinking, leadership, and the ability to think under pressure.",
+  poster: utkrishtPoster
+},
 
+{
+  id: "the big",
+  title: "The Big Ballon Show",
+  category: "FUN ACTIVITY",
+  date: "13th November 2025",
+  time: "11:00 AM – 2:00PM ",
+  participants: "Open to all",
+  prize: "Exciting prizes.",
+  description:
+    "The Big Balloon show” is a creative and interactive event designed to celebrate imagination, teamwork, and artistic expression. In this activity, participants collaboratively create a vibrant tree using colorful balloons. The balloon tree serves as a symbolic representation of growth, unity, and the endless possibilities of rising higher, just as the name ‘the big balloon show’ signifies aspiration. The event encourages participants to think innovatively and work together to transform simple materials into a meaningful and visually appealing creation. It not only enhances creative thinking and coordination among team members but also promotes a sense of joy, positivity, and collective achievement. Through this fun-filled and inspiring activity, The Big balloon aims to nurture creativity, strengthen bonds, and remind everyone that with teamwork and imagination, we can all soar to new heights.",
+  poster: utkrishtPoster
+}
 
   ];
 
