@@ -402,6 +402,16 @@ const CoreTeam = () => {
                     </div>
                   </div>
                 ))}
+                <div className="group bg-card border border-border rounded-xl overflow-hidden hover:border-secondary transition-all duration-300 hover:shadow-[0_0_30px_rgba(6,182,212,0.3)] animate-fade-in flex flex-col justify-center p-6 text-center">
+                  <h3 className="text-base font-bold mb-3">Back-end Team</h3>
+                  <ul className="list-disc list-inside text-muted-foreground text-sm text-left mx-auto max-w-[220px] space-y-1">
+                    <li>Shreya Jakhmola</li>
+                    <li>Muskan</li>
+                    <li>Anisha Gusain</li>
+                    <li>Divyanshi</li>
+                    <li>Aradhya</li>
+                  </ul>
+                </div>
               </div>
             </div>
           </section>
