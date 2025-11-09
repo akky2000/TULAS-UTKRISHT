@@ -47,11 +47,11 @@ const Events = () => {
     },
     {
   "id": "finance-tambola",
-  "title": "Finance Tambola – Play. Learn. Invest.",
+  "title": "Finance Tambola.",
   "category": "GSB",
   "date": "November 13, 2025",
   "participants": "Individual Participation (Open to all GSB Students)",
-  "prize": "Attractive Prizes & Certificates for Winners and Active Participants",
+  "prize": "Attractive Prizes & Certificates.",
   "description": "An interactive financial literacy event that blends learning and fun through a pictorial Tambola game, helping students understand key concepts like savings, investment, taxation, and budgeting.",
   poster: utkrishtPoster
 },
@@ -61,18 +61,18 @@ const Events = () => {
   "title": "Brand in a Blink",
   "category": "GSB",
   "date": "November 14, 2025",
-  "participants": "Team Participation (4 members per team, Open to all GSB Students)",
-  "prize": "Prizes and Certificates for Winners and Participants",
+  "participants": "Team Participation (Open to all GSB Students)",
+  "prize": "Prizes and Certificates for all",
   "description": "A fun and fast-paced branding challenge where teams identify brands, logos, and taglines flashed briefly on screen to test their marketing knowledge and brand recall.",
   poster: utkrishtPoster
 },
 {
   "id": "peoples-pulse",
-  "title": "People’s Pulse – A Signature HR Learning Extravaganza",
+  "title": "People’s Pulse",
   "category": "GSB",
   "date": "November 14, 2025",
   "participants": "Open to MBA/BBA Students (Teams of 2–3)",
-  "prize": "Certificates & Prizes for Winners and Finalists",
+  "prize": "Certificates & Prizes.",
   "description": "An HR-based interactive event with rounds like HR Quiz War, Case Crackers, and Ad Design Showdown — promoting strategic HR thinking, ethics, and creativity under the theme 'People at the Heart of Strategy'.",
   poster: utkrishtPoster
 },
@@ -80,7 +80,7 @@ const Events = () => {
 
 {
   "id": "techmanthan",
-  "title": "TechManthan – Ideas for Viksit Bharat",
+  "title": "TechManthan ",
   "category": "CSE",
   "date": "13 NOV",
   "participants": "Individual or Team Participation",
@@ -95,18 +95,18 @@ const Events = () => {
   "category": "CSE",
   "date": "13 NOV",
   "participants": "Individual or Team (up to 3 members)",
-  "prize": "Awards for Best Creative Reel, Most Relatable/Fun Reel & Best Editing/Technical Reel; e-Certificates for all participants",
+  "prize": "Exciting Awards",
   "description": "Reel-O-Tech blends technology and creativity, allowing participants to craft short 60–90 second reels around tech life, innovation, or campus experiences. The event promotes storytelling, editing skills, and originality using tools like CapCut, Runway ML, and Synthesia, celebrating the spirit of Utkrisht 2025.",
   poster: utkrishtPoster
 },
 
 {
   "id": "techfusion",
-  "title": "TechFusion: Build, Predict & Secure",
+  "title": "TechFusion",
   "category": "CSE",
   "date": "13 NOV",
-  "participants": "Open to undergraduate and postgraduate students (Team size: 1–4 members)",
-  "prize": "Awards for Overall Winner, Best Innovation, Best AI/ML Solution, and Best Cybersecurity Skill. Certificates for all participants.",
+  "participants": "Open to all(Team size: 1–4 members)",
+  "prize": "Exciting Awards",
   "description": "A multidisciplinary competition that unites AI/ML, software development, and cybersecurity through three segments — Build, Predict, and Secure. Students innovate, analyze, and defend in real-world tech challenges designed to test creativity, technical acumen, and ethical problem-solving.",
   poster: utkrishtPoster
 },
@@ -138,11 +138,11 @@ const Events = () => {
 
 {
   "id": "coderush",
-  "title": "CodeRush – Crack the Code. Beat the Clock.",
+  "title": "CodeRush",
   "category": "CSE",
   "date": "Tuesday, 4th November 2025",
   "participants": "Open to all undergraduate students (individual participation)",
-  "prize": "Trophies & Certificates for Top 3 Winners; Sponsored Goodies from GeeksforGeeks and ACM Student Chapter",
+  "prize": "Trophies & Certificates",
   "description": "CodeRush is an inter-college coding contest powered by GeeksforGeeks and ACM Student Chapter, designed to test accuracy, efficiency, and problem-solving speed. With 4 challenges of increasing difficulty, participants compete for recognition as the top coders on campus.",
   poster: utkrishtPoster
 },
@@ -150,7 +150,7 @@ const Events = () => {
 
     {
       id: "robo-soccer",
-      title: "Super Strikers - Robo Soccer ",
+      title: "Super Strikers",
       category: "ECE",
       date: "November 13, 2025",
       participants: "Teams of 4",
@@ -168,7 +168,7 @@ const Events = () => {
   prize: "Certificates",
   description:
     " Learn the art of cultivating a nutritious kitchen garden with hands-on experience in planting, nurturing, and harvesting a variety of vegetables and herbs. Discover sustainable gardening practices that promote health and wellness.",
-  poster: nPoster
+  poster: utkrishtPoster
 },
     {
       id: "robo-wars",
@@ -178,7 +178,7 @@ const Events = () => {
       participants: "Teams of 4",
       prize: "TBA",
       description: "Build and battle robots in an arena to outlast and outfight your opponents.",
-      poster: robowarPoster
+      poster: utkrishtPoster
     },
     {
       id: "jenga-war",
@@ -188,7 +188,7 @@ const Events = () => {
       participants: "Teams of 2",
       prize: "Exciting Rewards",
       description: "Create a stunning, functional website in just 6 hours. Show off your frontend and backend skills.",
-      poster: webDevPoster
+      poster: utkrishtPoster
     },
     {
       id: "tool-test",
@@ -198,7 +198,7 @@ const Events = () => {
       participants: "Team of 2",
       prize: "TBA",
       description: "Test your technical knowledge on essential electrical and electronics instruments in this exciting competition.",
-      poster: droneRacePoster
+      poster: utkrishtPoster
     },
      {
     id: "investors-den",
@@ -206,7 +206,7 @@ const Events = () => {
     category: "CENTERSTAGE",
     date: "November 13, 2025",
     participants: "Teams of 4",
-    poster: investPoster,
+    poster: utkrishtPoster,
     prize: "TBA",
     description: "Investors Den is a Shark Tank-inspired entrepreneurship challenge."
   },
@@ -218,7 +218,7 @@ const Events = () => {
       participants: "Individual",
       prize: "Exciting Rewards",
       description: "Showcase innovative agricultural products and solutions that can revolutionize farming practices.",
-      poster: martPoster
+      poster: utkrishtPoster
     },
     {
       id: "agri-quest",
@@ -228,7 +228,7 @@ const Events = () => {
       participants: "Individual",
       prize: "Exciting Rewards",
       description: "Test your knowledge of modern agricultural tools, quality seeds and seedling management in this fun quiz competition.",
-      poster: quizPoster
+      poster: utkrishtPoster
     },
     {
     id: "bgmi-tournament",
@@ -236,19 +236,19 @@ const Events = () => {
     category: "CENTERSTAGE",
     date: "November 13, 2025",
     participants: "Teams of 2-4",
-    poster: hackathonPoster,
+    poster: utkrishtPoster,
     prize: "Exciting Rewards",
     description: " Compete in our thrilling BGMI Tournament and showcase your gaming skills to claim victory."
   },
     {
       id: "Mashroom",
-      title: "MASHROOM WORKSHOP",
+      title: "MUSHROOM WORKSHOP",
       category: "AGRI",
       date: "November 14, 2025",
       participants: "Individual",
       prize: "Certificates",
       description: " ",
-      poster: mPoster
+      poster: utkrishtPoster
     },
     {
       id: "load-limit",
@@ -258,7 +258,7 @@ const Events = () => {
       participants: "Teams of 2",
       prize: "Exciting Rewards",
       description: "Test your structural engineering skills by designing and building a load-bearing model structure.",
-      poster: debugWarsPoster
+      poster: utkrishtPoster
     },
 
     {
@@ -269,7 +269,7 @@ const Events = () => {
       participants: "Teams of 2",
       prize: "Exciting Rewards",
       description: "Design and fabricate a functional electronic circuit to meet specified performance criteria.",
-      poster: debugWarsPoster
+      poster: utkrishtPoster
     },
     {
       id: "planting-competition",
@@ -279,7 +279,7 @@ const Events = () => {
       participants: "Team of 5",
       prize: "Certificates",
       description: " Engage in a hands-on planting competition to showcase your gardening skills and knowledge of plant care.",
-      poster: plantPoster
+      poster: utkrishtPoster
     },
 
     {
@@ -290,7 +290,7 @@ const Events = () => {
       participants: "Teams of 2",
       prize: "Exciting Rewards",
       description: "Navigate an electrifying maze using your knowledge of circuits and electronics.",
-      poster: debugWarsPoster
+      poster: utkrishtPoster
     },
 
 
@@ -306,7 +306,7 @@ const Events = () => {
   prize: "Certificates",
   description:
     " Learn the art of cultivating a nutritious kitchen garden with hands-on experience in planting, nurturing, and harvesting a variety of vegetables and herbs. Discover sustainable gardening practices that promote health and wellness.",
-  poster: icPoster
+  poster: utkrishtPoster
 },
 
 {
@@ -320,7 +320,7 @@ const Events = () => {
   prize: "Certificates",
   description:
     " Learn the art of cultivating a nutritious kitchen garden with hands-on experience in planting, nurturing, and harvesting a variety of vegetables and herbs. Discover sustainable gardening practices that promote health and wellness.",
-  poster: docterPoster
+  poster: utkrishtPoster
 },
 
 
@@ -335,7 +335,7 @@ const Events = () => {
   prize: "Certificates & Recognition for Best Posters",
   description:
     "Showcase your innovative ideas and research insights through visually engaging posters! Present your creativity on themes like science, technology, innovation, and environment while demonstrating analytical thinking and clear communication skills.",
-  poster: posterPresentationPoster,
+  poster: utkrishtPoster,
 },
 
 {
@@ -348,7 +348,7 @@ const Events = () => {
   prize: "Certificates",
   description:
     "War of Words is an engaging inter-departmental Extempore competition designed to enhance communication, critical thinking, and analytical abilities of students. Participants will speak spontaneously on a given topic, showcasing their ability to think quickly, organize ideas effectively, and express viewpoints confidently. This event encourages clarity of thought, stage presence, and fluency — fostering leadership and intellectual confidence.",
-  poster: warOfWordsPoster
+  poster: utkrishtPoster
 },
 
 {
@@ -361,7 +361,7 @@ const Events = () => {
   prize: "Certificates for Participants",
   description:
     "A pottery demonstration showcasing the foundational techniques of creating a vessel on a potter's wheel. The session highlights the transformation of simple clay (earth and water) into a functional art piece through skill and heat (fire and air). This hands-on training offers an immersive experience for participants to learn forming processes and shaping techniques under expert guidance.",
-  poster: potteryPoster
+  poster: utkrishtPoster
 }
 
 
