@@ -221,11 +221,7 @@ const CoreTeam = () => {
       name: "Akash Kumar",
       role: "Web Master",
       badge: "Tech",
-<<<<<<< Updated upstream
       image: "/core/akash.jpg"
-=======
-      image: "/core/akash.jpeg"
->>>>>>> Stashed changes
     },
     {
       name: "Vaibhav Chauhan",
