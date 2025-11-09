@@ -39,7 +39,7 @@ const Events = () => {
       id: "cad-mad",
       title: "CAD MAD",
       category: "CIVIL",
-      date: "November 11, 2025",
+      date: "November 13, 2025",
       participants: "Teams of 3",
       prize: "Exciting Rewards",
       description: " Showcase your AutoCAD skills by designing innovative structures and models.",
