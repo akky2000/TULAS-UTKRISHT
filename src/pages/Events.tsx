@@ -32,7 +32,7 @@ import utkrishtPoster from "@/assets/events/temp.jpg";
 const Events = () => {
   const [selectedCategory, setSelectedCategory] = useState("All");
 
-  const categories = ["All","CENTERSTAGE","ASH", "CIVIL", "ECE", "AGRI","MECHANICAL","GSB", "CSE","PHARMACY"];
+  const categories = ["All","CENTERSTAGE","ASH", "CIVIL", "EEE/ECE", "AGRI","MECHANICAL","GSB", "CSE","PHARMACY","FUN ACTIVITY"];
 
   const events = [
     {
@@ -151,7 +151,7 @@ const Events = () => {
     {
       id: "robo-soccer",
       title: "Super Strikers",
-      category: "ECE",
+      category: "CENTERSTAGE",
       date: "November 13, 2025",
       participants: "Teams of 4",
       prize: "TBA",
@@ -173,7 +173,7 @@ const Events = () => {
     {
       id: "robo-wars",
       title: "ARMAGEDDON - Robo Wars",
-      category: "ECE",
+      category: "CENTERSTAGE",
       date: "November 14, 2025",
       participants: "Teams of 4",
       prize: "TBA",
@@ -183,7 +183,7 @@ const Events = () => {
     {
       id: "jenga-war",
       title: "JENGA WAR",
-      category: "CIVIL",
+      category: "FUN ACTIVITY",
       date: "November 13-14, 2025",
       participants: "Teams of 2",
       prize: "Exciting Rewards",
@@ -193,7 +193,7 @@ const Events = () => {
     {
       id: "tool-test",
       title: "Tech Tools Test",
-      category: "ECE",
+      category: "EEE/ECE",
       date: "November 14, 2025",
       participants: "Team of 2",
       prize: "TBA",
@@ -264,7 +264,7 @@ const Events = () => {
     {
       id: "circuit-fab",
       title: "TURBOFLUX",
-      category: "ECE",
+      category: "EEE/ECE",
       date: "November 14, 2025",
       participants: "Teams of 2",
       prize: "Exciting Rewards",
@@ -285,7 +285,7 @@ const Events = () => {
     {
       id: "electro-maze",
       title: "ELECTROMAZE",
-      category: "ECE",
+      category: "FUN ACTIVITY",
       date: "November 13-14, 2025",
       participants: "Teams of 2",
       prize: "Exciting Rewards",
