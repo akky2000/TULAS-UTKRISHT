@@ -77,7 +77,8 @@ Over the years, Utkrisht has become a symbol of excellence and innovation, hosti
 
 The 2024 edition of Utkrisht witnessed an impressive 2,700+ participants across 40+ events, achieving a remarkable 97% participation rate. Building on that momentum, Utkrisht 2025 is set to be even grander — with an expected 3,000+ participants competing across 50+ diverse events during its much-awaited celebration on November 13–14, 2025.
 
-Driven by the vision of fostering technology, teamwork, and transformation, Utkrisht continues to evolve as a dynamic hub where creativity meets innovation, truly embodying the spirit of India’s next generation of tech pioneers and leaders. </p>
+Driven by the vision of fostering technology, teamwork, and transformation, Utkrisht continues to evolve as a dynamic hub where creativity meets innovation, truly embodying the spirit of India’s next generation of tech pioneers and leaders. 
+</p>
      
     </div>
 

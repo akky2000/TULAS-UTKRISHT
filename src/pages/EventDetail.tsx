@@ -625,8 +625,8 @@ const EventDetail = () => {
 "techmanthan": {
   "title": "TechManthan – Ideas for Viksit Bharat",
   "category": "CSE",
-  "date": "November 13, 2025",
-  "time": "To Be Announced",
+  "date": "November 14, 2025",
+  "time": "10 AM - 1 PM",
   "venue": "CSE Dept.",
   "participants": "Individual or Team Participation",
   "prize": "Certificates & Recognition for Best Ideas",
@@ -639,8 +639,12 @@ const EventDetail = () => {
     "Participants should maintain decorum and professionalism."
   ],
   "contact": [
-    "Faculty Coordinators: To Be Announced",
-    "Student Coordinators: To Be Announced"
+    "Faculty Coordinators: Ms. Aakansha Srivastva (8178586605)",
+    "Faculty Coordinators: Mr. Nishant Bisht (7037268280)",
+    "Faculty Coordinators: Mr. Abhishek  (6398767026)",
+    "Student Coordinators: Sonali Kumari (6299022124)",
+      "Student Coordinators: vaibhav Jaiswal (9369156650)"
+
   ]
 },
 
@@ -648,7 +652,7 @@ const EventDetail = () => {
   "title": "Reel-O-Tech",
   "category": "CSE",
   "date": "November 13, 2025",
-  "time": "12:00 AM onwards",
+  "time": "2:00 PM - 5:00 PM",
   "venue": "CSE Dept.",
   "participants": "Individual or Team (up to 3 members)",
   "prize": "Awards for Best Creative Reel, Most Relatable/Fun Reel & Best Editing/Technical Reel; e-Certificates for all participants",
@@ -680,8 +684,8 @@ const EventDetail = () => {
 "techfusion": {
   "title": "TechFusion: Build, Predict & Secure",
   "category": "CSE",
-  "date": "November 13, 2025",
-  "time": "Full-Day Event (~6–8 Hours)",
+  "date": "November 14, 2025",
+  "time": "1:00 PM - 4:00 PM",
   "venue": "Tula’s Institute, Dehradun – CSE Department",
   "participants": "Open to undergraduate and postgraduate students from Computer Science, IT, and allied disciplines (Team size: 1–4 members)",
   "prize": "Overall Winner, Best Innovation Award, Best AI/ML Solution, and Best Cybersecurity Skill. Certificates for all participants.",
@@ -701,7 +705,9 @@ const EventDetail = () => {
   "contact": [
     "Mr. Mohit Saini - Faculty Coordinator (9759581657)",
     "Mr. Sanjeev Gupta - Faculty Coordinator (9457467374)",
-    "Mr. Shivam Pandey - Faculty Coordinator (7017944688)"
+    "Mr. Shivam Pandey - Faculty Coordinator (7017944688)",
+    "Prashant Bharti - Student Coordinator (6006222380)",
+    "Piyush Upadhyay - Student Coordinator (7877490653)",
   ]
 },
 
@@ -745,11 +751,11 @@ const EventDetail = () => {
 "soap-making-activity": {
   "title": "Soap Making Activity",
   "category": "PHARMACY",
-  "date": "N/A",
-  "time": "N/A",
+  "date": "November 13, 2025",
+  "time": "11:00 - 2:00PM",
   "venue": "Pharmaceutics Laboratory, Tulas Institute of Pharmacy",
   "participants": "Pharmacy students of Tulas Institute",
-  "prize": "N/A",
+  "prize": "Certificates",
   "description": "The Department of Pharmacy, Tulas Institute of Pharmacy, organized a Soap Making Activity as part of a practical learning and skill development initiative. The activity aimed to provide hands-on experience in soap formulation and preparation, focusing on the application of Pharmaceutical Chemistry and Pharmaceutics concepts. Students learned the saponification process, ingredient selection, quality control, and creativity in product design. Under faculty guidance, they prepared customized soaps using natural ingredients such as coconut oil, castor oil, aloe vera, and neem. The activity promoted innovation, teamwork, and awareness of eco-friendly formulations.",
   "rules": [
     "Understand and apply the process of saponification.",
@@ -758,8 +764,14 @@ const EventDetail = () => {
     "Ensure creativity in design and fragrance selection."
   ],
   "contact": [
-    "Ms. Priyanka Gupta",
-    "Ms. Yati Gaur (Spokesperson)"
+    ,
+     "Faculty Coordinator: Ms. Priyanka Gupta(8840384492)",
+     "Faculty Coordinator: Ms. Sapna Pandey(8755383021)",
+       " Faculty Coordinator: Ms. Yati Gaur (Spokesperson)",
+       "Rohit  - Student Coordinator (8822069682)",
+       "Mriganko  - Student Coordinator (8250120443)",
+
+
   ]
 },
 
@@ -767,11 +779,11 @@ const EventDetail = () => {
 "anatomical-3d-model-making": {
   "title": "Anatomical 3D Model Making",
   "category": "PHARMACY",
-  "date": "N/A",
-  "time": "N/A",
+  "date": "November 14, 2025",
+  "time": "10:00-1:00PM",
   "venue": "Human Anatomy and Physiology Laboratory, Tula’s Institute of Pharmacy",
   "participants": "Pharmacy students of Tula’s Institute",
-  "prize": "N/A",
+  "prize": "Certificates",
   "description": "The Department of Pharmacy, Tula’s Institute of Pharmacy, organized an Anatomical 3D Model Making Activity aimed at enhancing students’ understanding of human anatomy through hands-on experience. Participants created detailed three-dimensional models of anatomical structures to visualize and comprehend complex body systems. The activity encouraged teamwork, creativity, and innovation while improving spatial and visual learning skills.",
   "rules": [
     "Each participant or team must design and construct a 3D anatomical model.",
@@ -781,8 +793,11 @@ const EventDetail = () => {
     "Originality and clarity of structure presentation will be key evaluation factors."
   ],
   "contact": [
-    "Miss Neha Kumari (Activity Coordinator)",
-    "Miss Yati Gaur (Spokesperson)"
+     "Faculty Coordinator: Ms.Neha Kumari (9760667583)",
+     "Faculty Coordinator: Ms. Shelly Raghav (7895954597)",
+     
+       "Tofiq  - Student Coordinator (7668847586)",
+       "Chetan Saw  - Student Coordinator (6207908359)",
   ]
 },
 "echo": {
@@ -945,7 +960,7 @@ const EventDetail = () => {
     "Use of third-party or unauthorized apps is strictly prohibited.",
     "Any form of cheating will lead to immediate disqualification of the entire team.",
     "Participants must bring their own mobile devices and accessories.",
-    "Restrictions on device brands or models, only mobile phones below 7' inches of screen are allowed, No Ipads or Tablets are allowed.",
+    "Restrictions on device brands or models, only mobile phones below 7'inches of screen are allowed, No Ipads or Tablets are allowed.",
     "Players must ensure stable internet connectivity for smooth gameplay.",
     "Any kind of misbehavior or verbal abuse towards other teams or organizers will lead to penalties.",
     "Respect college property and maintain discipline within the venue, and any damage to property will lead to immediate disqualification and penalty will be applied.",
@@ -955,9 +970,9 @@ const EventDetail = () => {
     "Fair play, teamwork, and professionalism are expected throughout the tournament."
   ],
   "contact": [
-    "Mr. Sharad partap Singh (Faculty Coordinator)",
-    "Mr Girish Singh Bisht (Faculty Coordinator)",
-    "Himanshu Kumar Singh (Student Coordinator)"
+    " Faculty Coordinator : Mr. Sharad partap Singh (7533977999) ",
+    " Faculty Coordinator : Mr Girish Singh Bisht (7983352646)",
+    "Student Coordinator: Himanshu Kumar Singh"
   ]
 },
 
@@ -1018,10 +1033,10 @@ const EventDetail = () => {
     "Certificates and prizes will be awarded to the top-performing teams and individuals."
   ],
   "contact": [
-    "Dr. Abdal Ahmed (Faculty Coordinator)",
-    "Ms. Kajal Chatri (Faculty Coordinator)",
-    "Sajal Mittal (Student Coordinator)",
-    "Sneha Singh (Student Coordinator)",
+    " Faculty Coordinator:Dr. Abdal Ahmed (8899304607)",
+    " Faculty Coordinator: Ms. Kajal Chatri (8126711169)",
+    " Student Coordinator: Sajal Mittal (7830584383)",
+    "Student Coordinator:Sneha Singh (7061790219)",
     "Sourav Rawat (Student Coordinator)",
     "Afsha Naaz (Student Coordinator)",
     "Pankaj Kalakoti (Student Coordinator)",
