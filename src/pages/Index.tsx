@@ -9,7 +9,7 @@ import { Button } from "@/components/ui/button";
 import { SEO } from "@/components/SEO";
 import bgmiPoster from "@assets/events/bgmi.png";
 import roboWarsPoster from "@/assets/events/robo-wars.jpg";
-import aiWorkshopPoster from "@/assets/events/ai-workshop.jpg";
+
 import utkrishtPoster from "@/assets/events/temp.jpg";
 
 const EVENT_DATE = new Date('2025-11-14T09:00:00');
