@@ -625,9 +625,9 @@ const EventDetail = () => {
 "techmanthan": {
   "title": "TechManthan – Ideas for Viksit Bharat",
   "category": "CSE",
-  "date": "To Be Announced",
+  "date": "November 13, 2025",
   "time": "To Be Announced",
-  "venue": "To Be Announced",
+  "venue": "CSE Dept.",
   "participants": "Individual or Team Participation",
   "prize": "Certificates & Recognition for Best Ideas",
   "description": "TechManthan – Ideas for Viksit Bharat is an engaging and intellectually stimulating event designed to empower young minds to think, speak, and innovate for the nation’s technological growth. The event provides a platform for students to act as youth representatives, presenting their ideas and solutions that can contribute to building a Viksit Bharat (Developed India). Each participant or team will deliver a 2-minute speech focusing on innovative uses of technology for social and economic development, identifying existing gaps in current technological adoption, and proposing actionable ideas or solutions for national progress.",
@@ -647,9 +647,9 @@ const EventDetail = () => {
 "reel-o-tech": {
   "title": "Reel-O-Tech",
   "category": "CSE",
-  "date": "13 NOV",
+  "date": "November 13, 2025",
   "time": "12:00 AM onwards",
-  "venue": "To Be Announced",
+  "venue": "CSE Dept.",
   "participants": "Individual or Team (up to 3 members)",
   "prize": "Awards for Best Creative Reel, Most Relatable/Fun Reel & Best Editing/Technical Reel; e-Certificates for all participants",
   "description": "Reel-O-Tech is a techno-creative event that encourages students to showcase their imagination, innovation, and storytelling skills through short reels (60–90 seconds). Participants will create engaging and original videos highlighting aspects of technology, innovation, or campus life. Shortlisted reels will be screened and judged on creativity, originality, and audience impact.",
@@ -669,16 +669,18 @@ const EventDetail = () => {
     "The organizing committee’s decision will be final."
   ],
   "contact": [
-    "Faculty In-Charge: To Be Announced",
-    "Event Coordinators: To Be Announced",
-    "Student Volunteers: To Be Announced"
+    "Ms. Rajwinder kaur - Faculty Coordinator (7906673270)",
+    "Ms. Suman Rana - Faculty Coordinator (7500554976)",
+    "Ms. Minu Rana - Faculty Coordinator ",
+    "Deepak Kumar - Student Coordinator (7492045312)",
+    "Ashish Jha - Student Coordinator (9341509906)",
   ]
 },
 
 "techfusion": {
   "title": "TechFusion: Build, Predict & Secure",
   "category": "CSE",
-  "date": "To Be Announced",
+  "date": "November 13, 2025",
   "time": "Full-Day Event (~6–8 Hours)",
   "venue": "Tula’s Institute, Dehradun – CSE Department",
   "participants": "Open to undergraduate and postgraduate students from Computer Science, IT, and allied disciplines (Team size: 1–4 members)",
@@ -709,7 +711,7 @@ const EventDetail = () => {
 "coderush": {
   "title": "CodeRush – Crack the Code. Beat the Clock.",
   "category": "CSE",
-  "date": "Tuesday, 4th November 2025",
+  "date": "November 13, 2025",
   "time": "11:00 AM – 1:00 PM (2 Hours)",
   "venue": "Online (GeeksforGeeks Platform)",
   "participants": "Open to all undergraduate students (individual participation)",

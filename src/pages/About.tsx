@@ -71,13 +71,13 @@ const About = () => {
     <div className="text-left space-y-6 text-muted-foreground font-light text-lg leading-relaxed">
       <h2 className="text-4xl font-display font-bold mb-6 text-primary uppercase tracking-wide">Our Story</h2>
       <p>
-        Established in 2015, Utkrisht has grown from a modest college fest into one of India’s premier technical festivals, inspiring innovation, collaboration, and creativity among young minds. Organized by Tula’s Institute, Utkrisht serves as a national platform for students to explore emerging technologies, demonstrate their technical acumen, and connect with industry experts and innovators.
+        Established in 2015, Utkrisht has grown from a modest college fest into one of India’s premier technical festivals, inspiring innovation, collaboration, and creativity among young minds. Organized by Tula’s Institute, Utkrisht serves as a national platform for students to explore emerging technologies, demonstrate their technical brilliance, and connect with industry experts and innovators.
 
-Over the years, Utkrisht has become a symbol of excellence and innovation, featuring a wide spectrum of technical competitions, startup challenges, hackathons, workshops, and expert-led sessions that empower participants to think beyond boundaries.
+Over the years, Utkrisht has become a symbol of excellence and innovation, hosting a dynamic range of technical competitions, startup challenges, hackathons, workshops, and expert-led sessions that empower participants to think beyond boundaries.
 
-The 2024 edition of Utkrisht witnessed an overwhelming participation of over 2,700 students across 40+ diverse events, marking an impressive 97% overall engagement. Building on that success, Utkrisht 2025 has already attracted 1,500+ registrations ahead of its grand celebration scheduled for November 13–14, 2025 — setting new benchmarks of enthusiasm and participation every year.
+The 2024 edition of Utkrisht witnessed an impressive 2,700+ participants across 40+ events, achieving a remarkable 97% participation rate. Building on that momentum, Utkrisht 2025 is set to be even grander — with an expected 3,000+ participants competing across 50+ diverse events during its much-awaited celebration on November 13–14, 2025.
 
-Driven by the vision of fostering technology, teamwork, and transformation, Utkrisht continues to evolve as a dynamic hub where creativity meets innovation — truly embodying the spirit of India’s next generation of tech leaders.   </p>
+Driven by the vision of fostering technology, teamwork, and transformation, Utkrisht continues to evolve as a dynamic hub where creativity meets innovation, truly embodying the spirit of India’s next generation of tech pioneers and leaders. </p>
      
     </div>
 
