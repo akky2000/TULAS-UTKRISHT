@@ -20,7 +20,7 @@ const Index = () => {
     id: "bgmi-tournament",
     title: "THE BGMI CHALLANGE",
     category: "CENTERSTAGE",
-    date: "November 13, 2025",
+    date: "November 13-14, 2025",
     participants: "Teams of 2-4",
     poster: utkrishtPoster,
     prize: "Exciting Rewards",
