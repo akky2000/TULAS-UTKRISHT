@@ -39,7 +39,7 @@ const Events = () => {
     id: "bgmi-tournament",
     title: "THE BGMI CHALLANGE",
     category: "CENTERSTAGE",
-    date: "November 13, 2025",
+    date: "November 13-14, 2025",
     participants: "Teams of 3-4",
     poster: utkrishtPoster,
     prize: "Overall 16,000 INR + Certificates",
@@ -195,7 +195,7 @@ const Events = () => {
       date: "November 13-14, 2025",
       participants: "Teams of 2",
       prize: "Exciting Rewards",
-      description: "Create a stunning, functional website in just 6 hours. Show off your frontend and backend skills.",
+      description: "A high-stakes twist on the classic block game where precision meets strategy in a battle of balance and nerves!",
       poster: utkrishtPoster
     },
     {
