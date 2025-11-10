@@ -1057,6 +1057,66 @@ const EventDetail = () => {
 },
 
 
+
+"rj-hunt": {
+  "title": "RJ Hunt",
+  "category": "Cultural / Personality-Based",
+  "date": "13/11/2025",
+  "time": "2:00 PM - 5:00 PM",
+  "venue": "EMPC Lab",
+  "participants": "Solo participation (open to all departments)",
+  "prize": "Exciting prizes for top performers",
+  "description": "Get ready to turn up the volume at RJ Hunt – Utkrisht 2025! Step into the spotlight and let your voice do the magic in this thrilling hunt for the ultimate Radio Jockey. Participants will be judged on voice modulation, creativity, spontaneity, and on-air presence. It’s not just about what you say, but how you say it!",
+  "rules": [
+    "Solo participation only, open to students from all departments.",
+    "Participants must submit a short recorded audio clip (1–2 minutes) at least 2 days before the event at empc@tulas.edu.in.",
+    "Submitted audios will be screened, and selected participants will be informed prior to the event day.",
+    "Shortlisted participants must come prepared for round two based on topics provided in advance.",
+    "The third round will be an open mic, and the topic will be given 10 minutes before the round begins.",
+    "Participants will be judged on voice modulation, creativity, spontaneity, confidence, and audience engagement.",
+    "Use of inappropriate language or content will lead to disqualification.",
+    "Participants must maintain professionalism and follow all instructions given by the event coordinators."
+  ],
+  "contact": [
+    "Dr. Neha Uniyal - Faculty Coordinator (8791406454)",
+    "Mr. Gaurav Singh - Faculty Coordinator (8534810382)",
+    "Anisha Gusain - Student Coordinator (8445422697)",
+    "Muskan - Student Coordinator (9634660277)"
+  ]
+},
+"reels-rumble": {
+  "title": "Reels Rumble (45 Seconds Reel)",
+  "category": "Techno-Creative / Centre Stage Event",
+  "date": "13/11/2025",
+  "time": "11:00 AM - 2:00 PM",
+  "venue": "EMPC Lab",
+  "participants": "Individual participation (open to all college students)",
+  "prize": "Exciting prizes for most creative and impactful reels",
+  "description": "Reels Rumble is a centre stage creative event where participants must craft a 45-second reel that captures the essence of the theme — combining innovation, storytelling, and technical finesse to leave a lasting impact. The theme will be revealed on the event day, encouraging originality and creativity in every frame.",
+  "rules": [
+    "The reel must align with the given theme, which will be disclosed on the event day.",
+    "Each reel should be within 45 seconds.",
+    "Offensive, explicit, or plagiarized material will lead to disqualification.",
+    "Avoid using copyrighted music, videos, or visuals unless proper permissions are obtained.",
+    "All content must be original, self-created, and should reflect your authentic style.",
+    "Open to all college students (individual entries only).",
+    "Step 1: Register through the Google Form or contact event coordinators to confirm participation.",
+    "Step 2: Shoot and capture visuals on Day 1.",
+    "Step 3: Complete editing and post-production in the EMPC – JMC Lab on Day 2 (10:00 AM).",
+    "Step 4: Submit final reels to empc@tulas.edu.in with your name and department.",
+    "Strictly follow the time limit of 45 seconds."
+  ],
+  "contact": [
+    "Ms. Deepika Rawat - Faculty Coordinator (7895370002)",
+    "Mr. Neeraj Kotiyal - Faculty Coordinator (7895653792)",
+    "Khushi Gangola - Student Coordinator (9761833792)",
+    "Shreya Jakhmola - Student Coordinator (7895093201)"
+  ]
+}
+
+
+
+
   };
 
   // ✅ Safely fetch event data

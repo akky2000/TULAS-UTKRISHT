@@ -450,7 +450,30 @@ const Events = () => {
   description:
     "Turtle Race is one of the most exciting and entertaining events of Utkrisht, designed to test participants balance, control, and patience. Unlike traditional races where speed leads to victory, this unique challenge rewards those who can move slowly and steadily while maintaining perfect balance. The goal is simple yet tricky to be the last one to cross the finish line without losing control or touching the ground. This event is a blend of fun, focus, and physical coordination, giving participants an opportunity to showcase their composure and determination. It’s not just a race, it’s a test of endurance, concentration, and skill, all in the spirit of sportsmanship and enjoyment.",
   poster: utkrishtPoster
+},
+{
+  "id": "rj-hunt",
+  "title": "RJ Hunt",
+  "category": "JMC",
+  "date": "13/11/2025",
+  "participants": "Solo participation (open to all departments)",
+  "prize": "Exciting prizes for top performers",
+  "description": "Get ready to turn up the volume at RJ Hunt – Utkrisht 2025! Step into the spotlight and let your voice do the magic in this thrilling hunt for the ultimate Radio Jockey. Participants will be judged on voice modulation, creativity, spontaneity, and on-air presence. It’s not just about what you say, but how you say it!",
+  poster: utkrishtPoster
+},
+
+
+{
+  "id": "reels-rumble",
+  "title": "Reels Rumble (45 Seconds Reel)",
+  "category": "JMC",
+  "date": "13/11/2025",
+  "participants": "Individual participation (open to all college students)",
+  "prize": "Exciting prizes for most creative and impactful reels",
+  "description": "Reels Rumble is a creative showdown where participants create a 45-second reel that captures the theme’s essence through storytelling, innovation, and cinematic execution. The event celebrates digital creativity and originality, challenging participants to craft a short yet impactful masterpiece.",
+  poster: utkrishtPoster
 }
+
 
   ];
 
