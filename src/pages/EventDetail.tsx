@@ -927,32 +927,35 @@ const EventDetail = () => {
 "bgmi-tournament": {
   "title": "BATTLEGROUNDS MOBILE INDIA (BGMI) TOURNAMENT",
   "category": "CENTERSTAGE",
-  "date": "29th November 2024",
-  "time": "4:00 PM – 10:00 PM",
-  "venue": "Lab 1 and Lab 4",
-  "participants": "Team participation (maximum 4 members per team)",
-  "prize": "Total Prize Pool ₹30,000 (1st – ₹15,000, 2nd – ₹7,000, 3rd – ₹5,000, MVP – ₹1,000, Most Eliminations – ₹1,000, Iconic Moment – ₹1,000)",
+  "date": "13th November 2025",
+  "time": "4:00 PM – 11:00 PM",
+  "venue": "Lab 1 and Lab 4 (Computer Center, I-Block)",
+  "participants": "Team participation (minimum 3 members per team)",
+  "prize": "Total Prize Pool ₹16,000 (1st – ₹6,000, 2nd – ₹4,000, 3rd – ₹2,000, MVP – ₹2,000, Most Eliminations – ₹2,000)",
   "description": "Join us for an exciting BGMI (Battlegrounds Mobile India) tournament at the college Tech Fest ‘UTKRISHT’! Compete against the best teams, showcase your skills, and battle for thrilling prizes. Whether you're a seasoned player or a newcomer, this is your chance to experience the adrenaline rush of one of India's most popular mobile games.",
   "rules": [
+    "Player must be a student of Tula’s Institute to participate.",
+    "It is mandatory to bring a valid college ID for verification by each student participant.",
     "Only registered players are eligible to participate.",
-    "Each team can have a maximum of 4 members.",
+    "Each team can have a minimum of 3 members and a maximum of 4 members.",
     "Players must be present at the venue before the match begins.",
     "Teams arriving late will be eliminated from the match.",
     "Use of third-party or unauthorized apps is strictly prohibited.",
     "Any form of cheating will lead to immediate disqualification of the entire team.",
     "Participants must bring their own mobile devices and accessories.",
-    "No restrictions on device brands or models, but players are responsible for their equipment.",
+    "Restrictions on device brands or models, only mobile phones below 7' inches of screen are allowed, No Ipads or Tablets are allowed.",
     "Players must ensure stable internet connectivity for smooth gameplay.",
     "Any kind of misbehavior or verbal abuse towards other teams or organizers will lead to penalties.",
-    "Respect college property and maintain discipline within the venue.",
+    "Respect college property and maintain discipline within the venue, and any damage to property will lead to immediate disqualification and penalty will be applied.",
     "Damaging college infrastructure will lead to immediate disqualification and disciplinary action.",
     "Organizers hold the right to modify rules or match formats if required.",
     "The decision of the judges and event coordinators will be final and binding.",
     "Fair play, teamwork, and professionalism are expected throughout the tournament."
   ],
   "contact": [
-    "Mr. Sharad partap Singh",
-    "Mr Girish Singh Bisht"
+    "Mr. Sharad partap Singh (Faculty Coordinator)",
+    "Mr Girish Singh Bisht (Faculty Coordinator)",
+    "Himanshu Kumar Singh (Student Coordinator)"
   ]
 },
 
