@@ -289,7 +289,6 @@ const CoreTeam = () => {
       badge: "Operations",
       image: "/core/Rahul.jpg"
     }
-    
   ];
 
   const badgeColors: Record<string, string> = {
