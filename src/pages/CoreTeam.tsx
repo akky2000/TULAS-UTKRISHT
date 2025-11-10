@@ -218,25 +218,13 @@ const CoreTeam = () => {
       image: "/core/dhruv.jpeg"
     },
     {
-      name: "Madhulika",
-      role: "Head Art and Decor Team",
-      badge: "Art & Decor",
-      image: "/core/Madhu.jpeg"
-    },
-    {
-      name: "Ujjwal",
-      role: "Head Art and Decor Team",
-      badge: "Art & Decor",
-      image: "/core/Ujjwal.jpg"
-    },
-    {
       name: "Akash Kumar",
       role: "Web Master",
       badge: "Tech",
       image: "/core/akash.jpg"
     },
     {
-      name: "Vaibhav Chauhan",
+      name: "VAIBHAV CHAUHAN",
       role: "Web Master",
       badge: "Tech",
       image: "/core/vaibhav.jpg"
@@ -252,6 +240,18 @@ const CoreTeam = () => {
       role: "Event Management",
       badge: "Operations",
       image: "/core/dev.jpeg"
+    },
+    {
+      name: "Madhulika",
+      role: "Head Art and Decor Team",
+      badge: "Art & Decor",
+      image: "/core/Madhu.jpeg"
+    },
+    {
+      name: "Ujjwal Kumar",
+      role: "Head Art and Decor Team",
+      badge: "Art & Decor",
+      image: "/core/Ujjwal.jpg"
     },
     {
       name: "Arpit Chadha",
@@ -405,9 +405,9 @@ const CoreTeam = () => {
                 <div className="group bg-card border border-border rounded-xl overflow-hidden hover:border-secondary transition-all duration-300 hover:shadow-[0_0_30px_rgba(6,182,212,0.3)] animate-fade-in flex flex-col justify-center p-6 text-center">
                   <h3 className="text-base font-bold mb-3">Back-end Team</h3>
                   <ul className="list-disc list-inside text-muted-foreground text-sm text-left mx-auto max-w-[220px] space-y-1">
-                    <li>Shreya Jakhmola</li>
-                    <li>Muskan</li>
                     <li>Anisha Gusain</li>
+                    <li>Muskan</li>
+                    <li>Shreya Jakhmola</li>
                     <li>Divyanshi</li>
                     <li>Aradhya</li>
                   </ul>
