@@ -464,6 +464,11 @@ const Events = () => {
           {/* Header */}
           <div className="max-w-3xl mx-auto text-center mb-16 animate-fade-in">
             <div className="mb-6">
+              <img
+    src="/images/can.png"
+    alt="UTKRISHT Mascot"
+    className="mx-auto mb-4 w-[30%] max-w-[400px] h-auto"
+  />
               <span className="inline-block px-6 py-2 bg-primary/20 backdrop-blur-md border-2 border-primary/50 rounded-full text-sm font-tech font-bold tracking-widest text-primary shadow-[0_0_20px_rgba(234,179,8,0.4)]">
                 COMPETE & CONQUER
               </span>

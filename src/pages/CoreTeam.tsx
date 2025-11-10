@@ -311,6 +311,11 @@ const CoreTeam = () => {
         <div className="container mx-auto px-4">
           {/* Header */}
           <div className="max-w-3xl mx-auto text-center mb-16 animate-fade-in">
+            <img
+    src="/images/can.png"
+    alt="UTKRISHT Mascot"
+    className="mx-auto mb-4 w-[30%] max-w-[400px] h-auto"
+  />
             <h1 className="text-5xl font-bold mb-6 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
               Meet the Core Team Behind Utkrisht 2025
             </h1>
