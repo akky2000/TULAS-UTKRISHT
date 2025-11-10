@@ -75,7 +75,12 @@ const Index = () => {
           </video>
         </div>
         
-        <div className="container mx-auto px-4 relative z-10 text-center">
+        <div className="container mx-auto px-4 relative z-10 text-center"><br /><br />
+          <img
+    src="/images/can.png"
+    alt="UTKRISHT Mascot"
+    className="mx-auto mb-4 w-[30%] max-w-[400px] h-auto"
+  />
    <img
   src="/images/FINAL UTKRISHT 2025.gif"
   alt="UTKRISHT 2K25 Logo"
