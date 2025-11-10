@@ -110,7 +110,7 @@ const Events = () => {
       "id": "techmanthan",
       "title": "TechManthan ",
       "category": "CSE",
-      "date": "November 14, 2025",
+      "date": "November 13, 2025",
       "participants": "Individual or Team Participation",
       "prize": "Certificates & Recognition for Best Ideas",
       "description": "TechManthan – Ideas for Viksit Bharat empowers young minds to innovate for the nation’s technological growth. Participants act as youth representatives, presenting 2-minute speeches with ideas that can drive India’s transformation into a Viksit Bharat (Developed India). The event fosters leadership, innovation, and public speaking skills aligned with the Viksit Bharat@2047 vision.",
