@@ -44,6 +44,12 @@ const CoreTeam = () => {
       social: { linkedin: "#", email: "meera@example.com" }
     },
     {
+      name: "Mr. Ashish Kumar",
+      designation: "Chief Proctor",
+      image: "https://tulas.edu.in/_next/static/media/AshishKumar.c0aeb601.webp",
+      social: { linkedin: "#", email: "suresh@example.com" }
+    },
+    {
       name: "Mr. Tauseef Iqbal",
       designation: (
     <>
@@ -64,18 +70,11 @@ const CoreTeam = () => {
       social: { linkedin: "#", email: "kavita@example.com" }
     },
     {
-      name: "Mr. Ashish Kumar",
-      designation: "Chief Proctor",
-      image: "https://tulas.edu.in/_next/static/media/AshishKumar.c0aeb601.webp",
-      social: { linkedin: "#", email: "suresh@example.com" }
-    },
-    {
       name: "Dr. Sandeep Kumar",
       designation: "Head of the Department, Computer Science Engineering",
       image: "https://tulas.edu.in/_next/static/media/SandeepKumar.1b12d88b.webp",
       social: { linkedin: "#", email: "kavita@example.com" }
     },
-    
     {
       name: "Mr. Abhishek Chakravorty",
       designation: "Head of the Department, EEE/ECE ",
@@ -94,7 +93,6 @@ const CoreTeam = () => {
       image: "https://tulas.edu.in/_next/static/media/MukeshPathela.4643d30b.webp",
       social: { linkedin: "#", email: "kavita@example.com" }
     },
-
     {
       name: "Dr. Arghya Sarkar",
       designation: "Head of the Department, Graduate School of Business",
@@ -107,14 +105,18 @@ const CoreTeam = () => {
       image: "https://tulas.edu.in/_next/static/media/PriyaMatta.b7bfbb54.webp",
       social: { linkedin: "#", email: "kavita@example.com" }
     },
-
     {
       name: "Dr. Sanjeev Kumar",
       designation: "Professor, Computer Applications",
       image: "https://tulas.edu.in/_next/static/media/SanjeevKumnar.2b7a4c0c.webp",
       social: { linkedin: "#", email: "kavita@example.com" }
     },
-
+    {
+      name: "Mr. Saurabh Singh",
+      designation: "Assistant Professor, Computer Science Engineering",
+      image: "/core/ss.jpeg",
+      social: { linkedin: "#", email: "kavita@example.com" }
+    },
     {
       name: "Dr. Sugam Gupta",
       designation: "Associate Professor, Applied Sciences and Humanities",
@@ -176,12 +178,6 @@ const CoreTeam = () => {
       name: "Mr. Rakesh Kumar",
       designation: "Assistant Professor, Computer Applications",
       image: "https://tulas.edu.in/_next/static/media/RakeshKumar.377ad3ff.webp",
-      social: { linkedin: "#", email: "kavita@example.com" }
-    },
-    {
-      name: "Mr. Saurabh Singh",
-      designation: "Assistant Professor, Computer Science Engineering",
-      image: "/core/ss.jpeg",
       social: { linkedin: "#", email: "kavita@example.com" }
     }
   ];
