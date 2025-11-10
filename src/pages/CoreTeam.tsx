@@ -404,7 +404,7 @@ const CoreTeam = () => {
                     <li>Muskan</li>
                     <li>Shreya Jakhmola</li>
                     <li>Divyanshi</li>
-                    <li>Aradhya</li>
+
                   </ul>
                 </div>
                 <div className="group bg-card border border-border rounded-xl overflow-hidden hover:border-secondary transition-all duration-300 hover:shadow-[0_0_30px_rgba(6,182,212,0.3)] animate-fade-in flex flex-col justify-center p-6 text-center">
