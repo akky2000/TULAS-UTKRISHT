@@ -214,7 +214,7 @@ const EventDetail = () => {
 "circuit-fab": {
   title: "Turboflux – Circuit Fabrication",
   category: "ECE",
-  date: "November 13, 2025",
+  date: "November 14, 2025",
   time: "10:00 AM - 1:00 PM",
   venue: "Tula's Institute, Computer Lab & Digital Electronics Lab (E-401)",
   participants: "Teams of 2",

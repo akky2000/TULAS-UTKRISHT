@@ -6,25 +6,8 @@ import { Button } from "@/components/ui/button";
 import { SEO } from "@/components/SEO";
 import hackathonPoster from "@/assets/events/temp.jpg";
 import roboWarsPoster from "@/assets/events/temp.jpg";
-import aiWorkshopPoster from "@/assets/events/ai-workshop.jpg";
-import webDevPoster from "@/assets/events/web-dev.jpg";
-import droneRacePoster from "@/assets/events/drone-race.jpg";
-
-import blockchainPoster from "@/assets/events/blockchain.jpg";
-import iotPoster from "@/assets/events/iot.jpg";
-import debugWarsPoster from "@/assets/events/debug-wars.jpg";
-import robowarPoster from "@/assets/events/R-w.jpeg"
-import icPoster from "@/assets/events/ic.jpg"
-import docterPoster from "@/assets/events/doctor.jpg"
-import posterPresentationPoster from "@/assets/events/poster.jpg"
-import warOfWordsPoster from "@/assets/events/war.jpg"
-import potteryPoster from "@/assets/events/pottery.jpg"
-import nPoster from "@/assets/events/nutritive.jpg"
-import martPoster from "@/assets/events/agrimart.jpg";
-import quizPoster from "@/assets/events/agriquiz.jpg";
-import mPoster from "@/assets/events/mushroom.jpg";
-import plantPoster from "@/assets/events/plant.jpg";
-import investPoster from "@/assets/events/invest.jpg";
+import jengaPoster from "@/assets/events/Jenga.png";
+import bgmiPoster from "@/assets/events/bgmi.png";
 import utkrishtPoster from "@/assets/events/temp.jpg";
 
 
@@ -53,7 +36,7 @@ const Events = () => {
       "participants": "Open to all undergraduate students (individual participation)",
       "prize": "Trophies & Certificates",
       "description": "CodeRush is an inter-college coding contest powered by GeeksforGeeks and ACM Student Chapter, designed to test accuracy, efficiency, and problem-solving speed. With 4 challenges of increasing difficulty, participants compete for recognition as the top coders on campus.",
-      poster: utkrishtPoster
+      poster: bgmiPoster
     },
     {
       "id": "rj-hunt",
@@ -196,7 +179,7 @@ const Events = () => {
       participants: "Teams of 2",
       prize: "Exciting Rewards",
       description: "A high-stakes twist on the classic block game where precision meets strategy in a battle of balance and nerves!",
-      poster: utkrishtPoster
+      poster: jengaPoster
     },
     {
       id: "tool-test",
