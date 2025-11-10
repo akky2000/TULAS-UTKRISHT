@@ -7,7 +7,7 @@ import FAQ from "@/components/FAQ";
 import EventCard from "@/components/EventCard";
 import { Button } from "@/components/ui/button";
 import { SEO } from "@/components/SEO";
-import hackathonPoster from "@/assets/events/hackathon.jpg";
+import bgmiPoster from "@assets/events/bgmi.png";
 import roboWarsPoster from "@/assets/events/robo-wars.jpg";
 import aiWorkshopPoster from "@/assets/events/ai-workshop.jpg";
 import utkrishtPoster from "@/assets/events/temp.jpg";
@@ -22,7 +22,7 @@ const Index = () => {
     category: "CENTERSTAGE",
     date: "November 13-14, 2025",
     participants: "Teams of 2-4",
-    poster: utkrishtPoster,
+    poster: bgmiPoster,
     prize: "Exciting Rewards",
     description: " Compete in our thrilling BGMI Tournament and showcase your gaming skills to claim victory."
   },

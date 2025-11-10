@@ -8,6 +8,7 @@ import hackathonPoster from "@/assets/events/temp.jpg";
 import roboWarsPoster from "@/assets/events/temp.jpg";
 import jengaPoster from "@/assets/events/Jenga.png";
 import bgmiPoster from "@/assets/events/bgmi.png";
+import codePoster from "@/assets/events/coder.png";
 import utkrishtPoster from "@/assets/events/temp.jpg";
 
 
@@ -24,7 +25,7 @@ const Events = () => {
     category: "CENTERSTAGE",
     date: "November 13-14, 2025",
     participants: "Teams of 3-4",
-    poster: utkrishtPoster,
+    poster: bgmiPoster,
     prize: "Overall 16,000 INR + Certificates",
     description: " Compete in our thrilling BGMI Tournament and showcase your gaming skills to claim victory."
     },
@@ -36,7 +37,7 @@ const Events = () => {
       "participants": "Open to all undergraduate students (individual participation)",
       "prize": "Trophies & Certificates",
       "description": "CodeRush is an inter-college coding contest powered by GeeksforGeeks and ACM Student Chapter, designed to test accuracy, efficiency, and problem-solving speed. With 4 challenges of increasing difficulty, participants compete for recognition as the top coders on campus.",
-      poster: bgmiPoster
+      poster: codePoster
     },
     {
       "id": "rj-hunt",
