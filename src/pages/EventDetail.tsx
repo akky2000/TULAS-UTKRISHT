@@ -927,7 +927,7 @@ const EventDetail = () => {
 "bgmi-tournament": {
   "title": "BATTLEGROUNDS MOBILE INDIA (BGMI) TOURNAMENT",
   "category": "CENTERSTAGE",
-  "date": "29th November 2024",
+  "date": "13-14 November 2025",
   "time": "4:00 PM – 10:00 PM",
   "venue": "Lab 1 and Lab 4",
   "participants": "Team participation (maximum 4 members per team)",
