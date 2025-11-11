@@ -39,7 +39,7 @@ const Schedule = lazy(() => import("./pages/Schedule"));
 const Sponsors = lazy(() => import("./pages/Sponsors"));
 const Gallery = lazy(() => import("./pages/Gallery"));
 const Contact = lazy(() => import("./pages/Contact"));
-const Register = lazy(() => import("./pages/Register"));
+
 const CoreTeam = lazy(() => import("./pages/CoreTeam"));
 const NotFound = lazy(() => import("./pages/NotFound"));
 
@@ -86,7 +86,7 @@ const App = () => (
             <Route path="/sponsors" element={<Suspense fallback={<div className="container mx-auto pt-24">Loading…</div>}><Sponsors /></Suspense>} />
             <Route path="/gallery" element={<Suspense fallback={<div className="container mx-auto pt-24">Loading…</div>}><Gallery /></Suspense>} />
             <Route path="/contact" element={<Suspense fallback={<div className="container mx-auto pt-24">Loading…</div>}><Contact /></Suspense>} />
-            <Route path="/register" element={<Suspense fallback={<div className="container mx-auto pt-24">Loading…</div>}><Register /></Suspense>} />
+
             <Route path="/core-team" element={<Suspense fallback={<div className="container mx-auto pt-24">Loading…</div>}><CoreTeam /></Suspense>} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
             <Route path="*" element={<Suspense fallback={<div className="container mx-auto pt-24">Loading…</div>}><NotFound /></Suspense>} />
