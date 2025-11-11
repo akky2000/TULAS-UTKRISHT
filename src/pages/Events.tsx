@@ -44,6 +44,9 @@ import tradex from "@/assets/events/tradex.png";
 import tal from "@/assets/events/tal.png";
 import trace from "@/assets/events/trace.png";
 import reelrumble from "@/assets/events/reelrumble.png";
+import junkyard from "@/assets/events/junkyard.png";
+import printer from "@/assets/events/3dprinting.png";
+import sgem from "@/assets/events/sgem.png";
 
 const Events = () => {
   const [selectedCategory, setSelectedCategory] = useState("All");
@@ -458,7 +461,39 @@ const Events = () => {
       "prize": "Exciting prizes for most creative and impactful reels",
       "description": "Reels Rumble is a creative showdown where participants create a 45-second reel that captures the theme’s essence through storytelling, innovation, and cinematic execution. The event celebrates digital creativity and originality, challenging participants to craft a short yet impactful masterpiece.",
       poster : reelrumble
-    }
+    },
+    {
+      "id": "junkyard",
+      "title": "Junkyard",
+      "category": "CENTERSTAGE",
+      "date": "November 14, 2025",
+      "participants": "Teams of 4 (Open for all)",
+      "prize": "Exciting Prizes",
+      "description": "Junkyard is an exciting and eco-creative event of Utkrisht that challenges students to turn trash into treasure using their innovation, teamwork, and imagination",
+      poster : junkyard
+    },
+    {
+      id: "3d-printing",
+      title: "3D Printing",
+      category: "CENTERSTAGE",
+      date: "November 13-14, 2025",
+      participants: "Individuals ",
+      prize: "Exciting Rewards",
+      description: "Showcase your skills in 3D modeling and printing by creating innovative designs and prototypes.",
+      poster: printer
+    },
+    {
+      id: "strategem",
+      title: "STRATEGEM",
+      category: "CENTERSTAGE",
+      date: "November 13-14, 2025",
+      participants: "Individuals (Open to all)",
+      prize: "Exciting Rewards",
+      description : "The CESIM Business Simulation is a powerful, interactive learning tool designed to enhance the managerial and strategic competencies of Graduation and Post-Graduation students.",
+      poster : sgem
+    },
+    
+   
   ];
 
   const filteredEvents = selectedCategory === "All" 

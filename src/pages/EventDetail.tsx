@@ -934,9 +934,9 @@ const EventDetail = () => {
     "The event aims to encourage creativity, teamwork, and the spirit of unity among participants."
   ],
   "contact": [
-    "Mrs. Apoorva Talwar (Faculty Coordinator)",
-    "Mr. Devendra Sood (Faculty Coordinator)",
-    "Ms. Ananya Sharma (Faculty Coordinator)",
+    
+    "Mr. Devendra Sood (Faculty Coordinator) - 8077248113" ,
+    
     "Anivesh (Student Coordinator) - 9523467896",
     "Adishty (Student Coordinator) - 8406000095"
   ]
@@ -999,8 +999,8 @@ const EventDetail = () => {
     "Any violation of the rules or unethical conduct will result in immediate disqualification."
   ],
   "contact": [
-    "Ms. Neetika Gupta (Faculty Coordinator)",
-    "Mr. Prakash Bhatnagar (Faculty Coordinator)",
+    "Ms. Neetika Gupta (Faculty Coordinator) - 9634272870",
+    "Mr. Prakash Bhatnagar (Faculty Coordinator) - 9411100086",
     "Adarsh Negi (Student Coordinator)",
     "Ankit Kumar (Student Coordinator)",
     "Namira Ansari (Student Coordinator)"
@@ -1133,8 +1133,75 @@ const EventDetail = () => {
     "Khushi Gangola - Student Coordinator (9761833792)",
     "Shreya Jakhmola - Student Coordinator (7895093201)"
   ]
-}
-
+},
+"junkyard" : {
+  "title": "Junkyard",
+  "category": "CENTERSTAGE",
+  "date": "14th November 2025",
+  "time": "11:00 AM – 2:00 PM",
+  "venue": "Open Ground ",
+  "participants": "Team of 4 (open for all departments)",
+  "prize": "Certificates and prizes for winners",
+  "description": "Junkyard is an innovative and eco-friendly event that challenges participants to unleash their creativity by transforming discarded materials into functional or artistic creations. Teams will work together to design and build unique projects using only the provided junk items, promoting sustainability, teamwork, and out-of-the-box thinking. Participants must collect scrap and discarded materials from within the campus and use them to design functional or artistic models. The event emphasizes resourcefulness and sustainability, inspiring participants to look at waste materials from a new perspective as potential resources for creativity and innovation. Through this hands-on activity, students explore the principles of recycling, design thinking, and environmental responsibility while competing in a fun and engaging way.",
+  "rules": [
+    "Participants must collect scrap and discarded materials from within the campus and use them to design functional or artistic models.",
+    "Only Scraps or discarded items are allowed - no pre-made components or kits.",
+    "The entire model must me completed within the given time frame of 3 hours.",
+    "Use of Hazardous or unsafe materials is strictly prohibited.",
+    "Teams must explain the concept , collected materials and purpose of their model to the judges"
+  ],
+  "contact": [
+    "Ms. Gurleen Kaur- Faculty Coordinator (9459379589)",
+    "Ms. Anchal Baniyal- Faculty Coordinator (9012957611)",
+  ]
+},
+"3d-printing" : {
+  "title": "3D-Printing ",
+  "category": "CENTERSTAGE",
+  "date": "13-14 November 2025",
+  "time": "10:00 AM - 2:00 PM",
+  "venue": "lab 2 (Computer Center, I-Block)",
+  "participants": "Individual participation (open to all college students)",
+  "prize": "Certificates of participation",
+  "description": "3D Printing Competition is an exciting event that challenges participants to design and create innovative three-dimensional models using 3D printing technology. Participants will showcase their creativity, technical skills, and understanding of 3D modeling software as they bring their ideas to life through the printing process. The competition encourages innovation, problem-solving, and hands-on experience with cutting-edge technology, providing a platform for students to explore the possibilities of additive manufacturing.",
+  "rules": [
+    "Open to all college students (individual entries only).",
+    "Participants must register through the Google Form or contact event coordinators to confirm participation.",
+    "Participants should bring their own laptops with pre-installed design software (if applicable).",
+    "All safety guidelines provided by the workshop facilitators must be strictly followed.",
+    "Participants are encouraged to actively engage in hands-on activities and ask questions during the workshop."
+  ],
+  "contact": [
+   "Dr. Sunil Semwal - Faculty Coordinator (8859373776)",
+   "Dr. Tripuresh Joshi - Faculty Coordinator (9410793879)"
+  ]
+},
+"strategem": {
+  "title": "STRATEGEM",
+  "category": "CENTERSTAGE",
+  "date": "13-14 November 2025",
+  "time": "10:00 AM (13th) – 1:30 PM (14th) ",
+  "venue": "Online",
+  "participants": "Individual (open to all students)",
+  "prize": "Exciting prizes for top performers",
+  "description": "The CESIM Business Simulation is a powerful, interactive learning tool designed to enhance the managerial and strategic competencies of Graduation and Post-Graduation students.",
+  "rules": [
+    
+    "The event is open to all students across departments.",
+    "The Competition will be conducted online over two days.",
+    "The competition will consist of multiple rounds, each featuring different games and puzzles.",
+   "There will be a total of 4 rounds in the competition. 2 Easy , 1 Medium , 1 Hard.",
+    "Participants must adhere to the time limits and guidelines provided by the event coordinators.",
+    "Any form of misconduct, cheating, or violation of fair play will lead to disqualification.",
+    "All decisions made by judges or event coordinators will be final and binding.",
+    "Participants are expected to maintain discipline, sportsmanship, and decorum throughout the event.",
+    "Certificates and cash prizes will be awarded to the top-performing teams."
+  ],
+  "contact": [
+    "Mr. Bharat Bhusan (Faculty Coordinator) - 9411527750",
+    "Mr. Satendra Kumar Patel(Faculty Coordinator) - 6391110783",
+  ]
+},
 
 
 
