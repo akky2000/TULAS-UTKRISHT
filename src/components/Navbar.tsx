@@ -129,11 +129,11 @@ const Navbar = () => {
                 )}
                 {theme === 'dark' ? 'Light Mode' : 'Dark Mode'}
               </button>
-              <Link to="/register" onClick={() => setIsOpen(false)} className="flex-1 ml-4">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9-4Zy_i23aE0xzXDcwuTKZ4aZ32vl0VwEOFi-NLazDhGMEQ/viewform">
                 <Button variant="hero" className="w-full font-tech font-semibold tracking-wide">
                   REGISTER NOW
                 </Button>
-              </Link>
+              </a>
             </div>
           </div>
         )}

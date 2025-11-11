@@ -678,6 +678,7 @@ const EventDetail = () => {
     "Ms. Minu Rana - Faculty Coordinator ",
     "Deepak Kumar - Student Coordinator (7492045312)",
     "Ashish Jha - Student Coordinator (9341509906)",
+    "Smriti Bisht - Student Coordinator (7819099352)",
   ]
 },
 
@@ -837,7 +838,7 @@ const EventDetail = () => {
   "venue": "Lab 2/Lab 3",
   "participants": "Open to CA/CSE students",
   "prize": "Certificates and prizes",
-  "description": "Echoes of Talent 2.O is a vibrant cultural showcase that celebrates the creativity and passion of students. The event provides an open platform for participants to express themselves through singing, dancing, acting, stand-up comedy, and other performing arts. It aims to inspire confidence, highlight individuality, and create a joyful atmosphere of artistic expression and entertainment.",
+  "description": "Escape Room 2.0 is an immersive and thrilling event that challenges participants to solve a series of puzzles, riddles, and tasks within a set time limit to 'escape' from a themed room. The event promotes teamwork, critical thinking, problem-solving skills, and effective communication as participants work together to decipher clues and unlock the exit. It offers an exciting opportunity for students to engage in a fun and intellectually stimulating experience.",
   "rules": [
   "The event is open to students from the CA and CSE departments only.",
   "Participants can register individually or in teams as specified.",
@@ -906,14 +907,14 @@ const EventDetail = () => {
 },
 
 "the big": {
-  "title": "THE BIG BALLOON SHOW",
-  "category": "FUN ACTIVITY",
+  "title": "UDAAN 2025 - Balloon Tree Battle",
+  "category": "CA",
   "date": "13th November 2025",
   "time": "11:00 AM – 2:00 PM (3 Hours)",
   "venue": "Near Auditorium",
   "participants": "Open to all students",
   "prize": "Certificates and prizes",
-  "description": "The Big Balloon Show is a creative and interactive event designed to celebrate imagination, teamwork, and artistic expression. In this activity, participants collaboratively create a vibrant 'Tree of Growth' using colorful balloons. The event symbolizes unity, growth, and the boundless potential to rise higher together, promoting creativity, joy, and collective achievement.",
+  "description": "UDAAN 2025 is a creative and interactive event designed to celebrate imagination, teamwork, and artistic expression. In this activity, participants collaboratively create a vibrant 'Tree of Growth' using colorful balloons. The event symbolizes unity, growth, and the boundless potential to rise higher together, promoting creativity, joy, and collective achievement.",
   "rules": [
     "The event is open to all students across departments.",
     "Participants will form small teams as per organizer instructions.",
