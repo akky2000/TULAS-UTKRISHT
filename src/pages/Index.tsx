@@ -100,13 +100,14 @@ const Index = () => {
                 Explore Events <ArrowRight className="ml-2" />
               </Link>
             </Button>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9-4Zy_i23aE0xzXDcwuTKZ4aZ32vl0VwEOFi-NLazDhGMEQ/viewform">
             <Button 
               variant="outline" 
               size="lg" 
               className="border-2 border-white text-white hover:bg-white/10 font-bold py-6 px-8 text-lg rounded-full backdrop-blur-sm transition-all duration-300"
             >
               Register Now
-            </Button>
+            </Button></a>
           </div>
         </div>
       </section>
