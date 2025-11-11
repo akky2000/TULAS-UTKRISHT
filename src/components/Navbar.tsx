@@ -127,7 +127,7 @@ const Navbar = () => {
                 ) : (
                   <Moon className="h-4 w-4 mr-2" />
                 )}
-                {theme === 'dark' ? 'Light Mode' : 'Dark Mode'}
+                
               </button>
               <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9-4Zy_i23aE0xzXDcwuTKZ4aZ32vl0VwEOFi-NLazDhGMEQ/viewform">
                 <Button variant="hero" className="w-full font-tech font-semibold tracking-wide">
