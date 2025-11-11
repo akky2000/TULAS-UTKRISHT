@@ -8,7 +8,8 @@ import EventCard from "@/components/EventCard";
 import { Button } from "@/components/ui/button";
 import { SEO } from "@/components/SEO";
 import bgmiPoster from "@/assets/events/bgmi.png";
-import roboWarsPoster from "@/assets/events/robo-wars.jpg";
+import roboPoster from "@/assets/events/Robo.png"
+import id from "@/assets/events/Investors.png"
 
 import utkrishtPoster from "@/assets/events/temp.jpg";
 
@@ -33,7 +34,7 @@ const Index = () => {
     category: "CENTERSTAGE",
     date: "November 14, 2025",
     participants: "Teams of 4",
-    poster: roboWarsPoster,
+    poster: roboPoster,
     prize: "TBA",
     description: "Build and battle robots in an arena to outlast and outfight your opponents."
   },
@@ -43,7 +44,7 @@ const Index = () => {
     category: "CENTERSTAGE",
     date: "November 13, 2025",
     participants: "Teams of 4",
-    poster: utkrishtPoster,
+    poster: id,
     prize: "TBA",
     description: "Design and program autonomous robot to play soccer against competing teams."
   }
