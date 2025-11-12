@@ -49,7 +49,9 @@ import printer from "@/assets/events/3dprinting.png";
 import sgem from "@/assets/events/sgem.png";
 import armw from "@/assets/events/armw.png";
 import mm from "@/assets/events/mm.png";
-
+import fmob from "@/assets/events/fmob.png";
+import tow from "@/assets/events/tow.png";
+import matki from "@/assets/events/matki.png";
 
 const Events = () => {
   const [selectedCategory, setSelectedCategory] = useState("All");
@@ -525,7 +527,7 @@ const Events = () => {
     participants : "Individulas or team of 2",
     prize : "Exciting Rewards", 
     description : "Step, Sync, Surprise! Move together and mesmerize - where rythm meets spontaneity and every beat sparks contagious energy",
-    poster : mm //chnages
+    poster : fmob//chnages
    },
    {
     id : "tow",
@@ -535,7 +537,7 @@ const Events = () => {
     participants : "Team of 10 ",
     prize : "Exciting Rewards",
     description : "Pull Power, prevail test strength and teamwork - where strategy meets sweat and every tug sparks fierce competition and unstoppable energy",
-    poster : mm //changes
+    poster : tow //changes
    },
    {
     id : "matki",
@@ -545,9 +547,9 @@ const Events = () => {
     participants : "Team of 2 ",
     prize : "Exciting Rewards",
     description : "Dive into the madness chase the spirit, and break the matki of limits",
-    poster : mm //changes
+    poster : matki //changes
    },
-   
+
    
   ];
 
