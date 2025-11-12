@@ -47,6 +47,9 @@ import reelrumble from "@/assets/events/reelrumble.png";
 import junkyard from "@/assets/events/junkyard.png";
 import printer from "@/assets/events/3dprinting.png";
 import sgem from "@/assets/events/sgem.png";
+import armw from "@/assets/events/armw.png";
+import mm from "@/assets/events/mm.png";
+
 
 const Events = () => {
   const [selectedCategory, setSelectedCategory] = useState("All");
@@ -492,7 +495,59 @@ const Events = () => {
       description : "The CESIM Business Simulation is a powerful, interactive learning tool designed to enhance the managerial and strategic competencies of Graduation and Post-Graduation students.",
       poster : sgem
     },
-    
+
+   {
+    id : "arm",
+    title: "Arm Wrestling Match",
+    category: "FUN ACTIVITY",
+    date: "November 13-14, 2025",
+    participants: "Individual",
+    prize: "Exciting Rewards",
+    description : "Show your strength and technique in the ultimate arm wrestling showdown!",
+    poster : armw
+   },
+
+   {
+    id : "murderm",
+    title : "Murder Mystery",
+    category : "FUN ACTIVITY",
+    date : "November 14, 2025",
+    participants : "Individuals or team of 2",
+    prize : "Exciting Rewards",
+    description : "Think, Search, Conquer! Every clue leads to glory - only the sharpest minds find the prize.",
+    poster : mm
+   },
+   {
+    id : "flash",
+    title : "Flash Mob",
+    category : "FUN ACTIVITY",
+    date : "November 13 2025",
+    participants : "Individulas or team of 2",
+    prize : "Exciting Rewards", 
+    description : "Step, Sync, Surprise! Move together and mesmerize - where rythm meets spontaneity and every beat sparks contagious energy",
+    poster : mm //chnages
+   },
+   {
+    id : "tow",
+    title : "Tug of War",
+    category : "FUN ACTIVITY",
+    date : "November 13 2025",
+    participants : "Team of 10 ",
+    prize : "Exciting Rewards",
+    description : "Pull Power, prevail test strength and teamwork - where strategy meets sweat and every tug sparks fierce competition and unstoppable energy",
+    poster : mm //changes
+   },
+   {
+    id : "matki",
+    title : "Matki Mania",
+    category : "FUN ACTIVITY",
+    date : "November 13-14 2025",
+    participants : "Team of 2 ",
+    prize : "Exciting Rewards",
+    description : "Dive into the madness chase the spirit, and break the matki of limits",
+    poster : mm //changes
+   },
+   
    
   ];
 

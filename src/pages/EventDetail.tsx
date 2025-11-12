@@ -1202,7 +1202,100 @@ const EventDetail = () => {
     "Mr. Satendra Kumar Patel(Faculty Coordinator) - 6391110783",
   ]
 },
+"armw": {
+  "title": "ARM WRESTLING",
+  "category": "FUN ACTIVITY",
+  "date": "13th-14th November 2025",
+  "time": "11:00 AM – 4:00 PM",
+  "venue": "Open Ground Near Tendulkar’s Pavilion",
+  "participants": "Individual Participation (Open to all students)",
+  "prize": "Certificates and prizes for winners",
+  "description": "Arm Wrestling is an exciting and competitive event that tests participants' strength, technique, and endurance. Open to all students, this event provides a platform for individuals to showcase their physical prowess in a friendly yet challenging environment. Participants will engage in one-on-one matches, aiming to pin their opponent's arm down to claim victory. The event promotes sportsmanship, camaraderie, and physical fitness among students.",
+  "rules": [
+    "The event is open to all students of the institution.",
+    "Participants must register individually prior to the event.",
+    "Matches will be conducted in a knockout format.",
+    "Each match will have a time limit of 1 minute; if neither participant wins within this time, the match will be declared a draw and both will be eliminated."
+  ],
+  "contact": [
+    "Mr. Emmanuel Gabriel (Faculty Coordinator) - 8218851348"
+    
+  ]
+},
+"murderm" : {
+  "title": "Murder Mystery 'Treasure Hunt' ",
+  "category": "FUN ACTIVITY",
+  "date": "14th November 2025",
+  "time" : "1:00 PM - 4:00 PM",
+  "venue": "Old Seminar Hall",
+  "participants" : "Individuals or team of 2",
+  "prize" : "Certificates and prizes for winners",
+  "description" : "Think, Search, Conquer! Every clue leads to glory - only the sharpest minds find the prize.",
+  "rules": [
+    "The event is open to all students of the institution.",
 
+  ],
+  "contact" : [
+    "Mr. Emmanuel Gabriel (Faculty Coordinator) - 8218851348"
+  ]
+
+},
+"flash" : {
+  "title": "Flash Mob  ",
+  "category": "FUN ACTIVITY",
+  "date": "13th November 2025",
+  "time" : "2:00 PM - 5:00 PM",
+  "venue": "Tendulkar's Pavillion",
+  "participants" : "Individuals or team of 2-8",
+  "prize" : "Certificates and prizes for winners",
+  "description" : "Step, Sync, Surprise! Move together and mesmerize - where rythm meets spontaneity and every beat sparks contagious energy",
+  "rules": [
+    "The event is open to all students of the institution.",
+
+  ],
+  "contact" : [
+    "Mr. Emmanuel Gabriel (Faculty Coordinator) - 8218851348"
+  ]
+
+},
+
+
+"tow" : {
+  "title": "Tug of War  ",
+  "category": "FUN ACTIVITY",
+  "date": "13th November 2025",
+  "time" : "2:00 PM - 5:00 PM",
+  "venue": "Ground Behind Tula's Cafe",
+  "participants" : "Team of 10",
+  "prize" : "Certificates and prizes for winners",
+  "description" : "Pull Power, prevail test strength and teamwork - where strategy meets sweat and every tug sparks fierce competition and unstoppable energy",
+    "rules": [
+    "The event is open to all students of the institution.",
+
+  ],
+  "contact" : [
+    "Mr. Emmanuel Gabriel (Faculty Coordinator) - 8218851348"
+  ]
+
+},
+"matki" : {
+  "title": "Matki Mania  ",
+  "category": "FUN ACTIVITY",
+  "date": "13th-14th November 2025",
+  "time" : "10:00 AM - 4:00 PM",
+  "venue": "Cricket Ground",
+  "participants" : "Team of 2",
+  "prize" : "Certificates and prizes for winners",
+  "description" : "Dive into the madness chase the spirit, and break the matki of limits.",
+    "rules": [
+    "The event is open to all students of the institution.",
+
+  ],
+  "contact" : [
+    "Mr. Emmanuel Gabriel (Faculty Coordinator) - 8218851348"
+  ]
+
+},
 
 
   };
